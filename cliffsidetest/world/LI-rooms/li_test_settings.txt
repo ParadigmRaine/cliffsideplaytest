@@ -1,0 +1,8 @@
+Clouds: 0.7501248
+Grime: 0.1597373
+Palette: 3003
+EffectColorA: 10
+EffectColorB: 5
+Effects: Fog-1-20-20, LightRain-0.1082653-30-30, 
+AmbientSounds: OMNI><am_env-natwind.ogg><738.4175><192.7621><0.5><1, 
+FadePalette: 3002, 0.3015964, 0.2087976, 0.1546649

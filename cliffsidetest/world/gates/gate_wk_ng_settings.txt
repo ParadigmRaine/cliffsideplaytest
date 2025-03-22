@@ -1,0 +1,7 @@
+Template: NONE
+DangerType: Thunder
+Clouds: 0.4253285
+Grime: 0.1288044
+Palette: 3001
+Effects: ElectricDeath-1-20-20, Lightning-0.4021288-30-30, 
+FadePalette: 3006, 0

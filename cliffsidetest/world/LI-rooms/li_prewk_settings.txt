@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: Thunder
+RainIntensity: 1
+Clouds: 0.2861302
+Grime: 0.2061366
+Palette: 3001
+EffectColorA: 4
+EffectColorB: 8
+Effects: Lightning-0.8042569-20-20, ReplaceEffectColorA-0-215.6906-64.15001-Color-0.5103932-0.4330617-1, 
+PlacedObjects: SlimeMold><1160.178><590.5593><0~0~2~3~0<lc>0, SlimeMold><1123.751><490.6492><0~0~2~3~0<lc>0, SlimeMold><1052.89><487.4749><0~0~2~3~0<lc>0, SlimeMold><1007.53><489.1914><0~0~2~3~0<lc>0, CosmeticSlimeMold><1146.999><555.3004><-121.6593~113.5177, SlimeMold><791.4074><646.4614><0~0~2~3~0<lc>0, CosmeticSlimeMold2><804.9659><642.4553><0~100, LightFixture><1149.69><534.2726><SlimeMoldLight~17.32051~-10~86, LightFixture><793.3705><658.0519><SlimeMoldLight~17.32051~-10~38, LightFixture><93.78202><438.1656><RedLight~17.32051~-10~6, LightFixture><1145.607><273.4667><RedLight~17.32051~-10~44, LightFixture><560.559><704.8038><RedLight~17.32051~-10~23, 
+AmbientSounds: OMNI><am_rain-rollingthunder.ogg><779.3934><552.1718><0.407202><1, OMNI><am_rain-quietthunder.ogg><738.4335><422.4172><0.4536><1, OMNI><am_rain-rumbles.ogg><644.5893><317.261><0.2293363><1, SPOT><so_ind-flourlight.ogg><401.9243><369.7943><0.5><1><362.5607><584.0381><-137.0939><-55.98761><0><0.154133, SPOT><am_ind-electrichum03.ogg><896.4167><351.8709><0.3066691><1><546.8574><179.7929><-35.35534><-35.35534><0><0.1850659, SPOT><am_ind-electrichum02.ogg><834.8704><144.8528><0.3221349><0.9304004><794.8138><182.4542><-39.62408><-39.62408><0><0.2159988, SPOT><am_ind-electrichum01.ogg><1204.501><361.7452><0.3453356><0.8886416><1058.419><183.9753><-46.02722><-47.45015><0><0.2082652, SPOT><so_ind-weirdvent.ogg><609.309><560.029><0.5><0.8051216><1147.65><620.5977><-98.67517><-110.0585><0><0.2159988, 

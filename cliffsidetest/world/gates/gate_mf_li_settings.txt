@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.8583908
+Grime: 0.0978712
+BkgDroneVolume: 0
+Palette: 12
+Effects: AboveCloudsView-1-20-20, 
+PlacedObjects: LightFixture><300.2468><379.4314><RedLight~17.32051~-10~43, LightFixture><662.224><380.322><RedLight~17.32051~-10~93, 
+AmbientSounds: OMNI><am_ind-utility04.ogg><748.4303><548.4097><0.5><1, SPOT><SO_IND-MechHum01.ogg><694.6389><396.4361><0.2757363><1><73.58984><242.6695><129.703><-6.897003><0><0.4711954, 
+FadePalette: 8, 0.5026608
+BackgroundOffset: 0,1495.925
+BackgroundType: atc_oe_spire

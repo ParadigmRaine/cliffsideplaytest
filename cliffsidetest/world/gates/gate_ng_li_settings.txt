@@ -1,0 +1,17 @@
+Template: NONE
+DangerType: Thunder
+CeilingDrips: 0.2808085
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04788044
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.5026607
+Grime: 0
+Palette: 3001
+EffectColorA: 13
+EffectColorB: 8
+Effects: ElectricDeath-0.5026608-20-20, Lightning-0.8066692-359.4052-74.82188, GreenSparks-0.0618661-68.45831-104.7427, VoidMelt-0.1082658-688.8105-457.5865, 
+PlacedObjects: ExitSymbolShelter><728.8085><388.7091><, ExitSymbolShelter><44.8344><275.5978><, LightFixture><481.8195><-206.0079><RedLight~17.32051~-10~59, SteamPipe><329.8013><-128.9182><-69.72287~-34.46562, SteamPipe><350.9596><-173.0722><-38.41873~-16.67917, SteamPipe><379.1367><22.56709><0~100, SteamPipe><626.6857><-142.4337><55.49371~-1.027084, SteamPipe><505.7042><-166.1158><6.403076~-104.9, LightFixture><-3.841919><73.83194><RedLight~-6.157608~-177.1927~79, LightSource><166.0207><-241.7363><0.006191088~EffectColor1~16.36353~710.4313~-220.0642~386.2188~0~1~Fade~0.3015727~0, LightSource><843.4257><-238.7647><0.01085762~EffectColor1~16.36353~710.4313~-220.0642~386.2188~0~1~Fade~0.3015727~0, 
+AmbientSounds: OMNI><am_rain-quietthunder.ogg><725.468><569.1346><0.4613336><1, OMNI><am_rain-rollingthunder.ogg><739.5844><405.1766><0.3994685><1, OMNI><am_rain-rumbles.ogg><788.5949><265.9142><0.4149336><1, OMNI><am_rain-mehthunder.ogg><738.9767><155.4048><0.3762678><1, OMNI><msc-metalvariety.ogg><250.9673><474.3068><0.1597376><0.3040083, OMNI><msc-structurestrain.ogg><452.8239><247.8224><0.407202><0.136969, OMNI><msc-unrelentingbreakage.ogg><459.0714><448.7441><0.3066691><0.1508906, OMNI><am_sub-mysticcave1.ogg><742.6838><477.1683><0.206137><1, 
+FadePalette: 75, 0.05413238

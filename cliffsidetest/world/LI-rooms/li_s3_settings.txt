@@ -1,0 +1,8 @@
+Template: LI_SettingsTemplate_inside
+Clouds: 0.3093298
+Grime: 0.2216037
+BkgDroneVolume: 0
+Palette: 3008
+EffectColorB: 5
+Effects: LightBurn-0.2010651-779.9166-307.5083, 
+AmbientSounds: OMNI><AM_IND-Warehouse02.ogg><771.9919><405.4982><0.4304014><1, 

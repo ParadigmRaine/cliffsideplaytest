@@ -1,0 +1,3 @@
+Template: LI_SettingsTemplate_inside
+Grime: 0.1520038
+FadePalette: 10, 0.05413254, 0.100532, 0.1082653

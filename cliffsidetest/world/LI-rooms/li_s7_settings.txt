@@ -1,0 +1,7 @@
+Template: LI_SettingsTemplate_inside
+DangerType: None
+Clouds: 0.8661237
+BkgDroneVolume: 0
+Effects: LightBurn-0.1469322-717.9802-391.4208, 
+FadePalette: 41, 0.123732
+MorePalette0: 51, 0.3093302

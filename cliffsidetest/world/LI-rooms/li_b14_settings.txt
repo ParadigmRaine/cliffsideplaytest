@@ -1,0 +1,3 @@
+Template: LI_SettingsTemplate_rot
+AmbientSounds: OMNI><AM_SUB-MysticCave2.ogg><437.9183><230.8766><0.206137><0.7216029, 
+FadePalette: 3009, 0.5026608, 0.6031927

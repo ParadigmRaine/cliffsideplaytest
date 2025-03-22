@@ -1,0 +1,16 @@
+Template: NONE
+DangerType: None
+WaveSpeed: 0.7190671
+WaveLength: 0.3762681
+WaveAmplitude: 0.3015969
+SecondWaveLength: 0.04293459
+SecondWaveAmplitude: 0.3479959
+Clouds: 0.03093255
+Grime: 0.3608017
+BkgDroneVolume: 0
+Palette: 3002
+EffectColorA: 1
+EffectColorB: 9
+Effects: Lightning-0.6573268-651.0635-445.4521, LightRain-1-233.4771-69.1302, ReplaceEffectColorA-0-30-30-Color-0.6109261-0.5258605-1, GreenSparks-0.1005315-503.0802-560.7083, SilenceWater-0.502661-581.3406-573.5145, RockFlea-0.3015968-823.9478-362.9229, WaterGlowworm-0.1005315-745.6876-487.4281, WaterLights-1-20-20, 
+PlacedObjects: LightFixture><58.00722><351.897><RedLight~17.32051~-10~24, SteamPipe><705.715><308.8283><12.09479~100, SteamPipe><704.4929><308.1634><59.76245~46.64063, SteamPipe><1189.122><371.6666><-18.4978~92.88544, SteamPipe><1125.539><-5.962785><0~100, SteamPipe><1102.048><18.89018><0~100, LightFixture><1103.745><8.41854><RedSubmersible~17.32051~-10~59, LightSource><532.4716><504.528><0.2034766~White~-27.03546~165.4542~-425.9763~-68.02924~0~0~None~0~0, LightSource><352.9883><298.7419><0.1550207~White~0~100~50~86.60254~0~0~None~0~0, LightSource><593.049><343.3523><0.3040088~EffectColor1~4.268799~210.276~50~86.60254~0~0~None~0~0, LightSource><712.8854><345.9438><0.3040088~EffectColor1~4.268799~210.276~50~86.60254~0~0~None~0~0, LightSource><870.1469><334.0288><0.3040088~EffectColor1~4.268799~210.276~50~86.60254~0~0~None~0~0, LightSource><1004.578><343.808><0.3040088~EffectColor1~4.268799~210.276~50~86.60254~0~0~None~0~0, 
+AmbientSounds: OMNI><am_rain-mehthunder.ogg><711.656><158.9482><0.5><1, OMNI><am_rain-quietthunder.ogg><782.2789><565.596><0.5><1, OMNI><am_rain-rollingthunder.ogg><769.6093><546.2649><0.5><1, OMNI><am_rain-rumbles.ogg><760.8386><534.2594><0.5><1, OMNI><so_wat-openflow.ogg><748.4442><305.9678><0.5><1.208797, SPOT><so_wat-splashes.ogg><544.0383><200.4674><0.5><1.292318><440.0893><455.9756><-92.98352><-115.7502><0><0.3938632, OMNI><AM_WAT-Lakeside.ogg><823.7864><417.407><0.5><1, OMNI><AM_WAT-Sea01.ogg><783.4089><459.0267><0.5><1, 

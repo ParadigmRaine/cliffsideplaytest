@@ -1,0 +1,4 @@
+[ADD] LI_MiningLog : 9a7866 : f6ebde  : LI_MiningLog
+[ADD] LI_NGIlog1 : b28ccc : ff0000 : LI_NGIlog1
+[ADD] LI_NGIlog2 : b28ccc : 00ff00 : LI_NGIlog2
+[ADD] LI_NGIlog3 : b28ccc : 0000ff : LI_NGIlog3

@@ -1,0 +1,17 @@
+Template: NONE
+CeilingDrips: 1
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04507615
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.5103939
+Grime: 0.1520038
+BkgDroneVolume: 0
+Palette: 3008
+EffectColorB: 10
+Effects: Fog-0.4253283-20-20, RockFlea-0.5026607-30-30, 
+PlacedObjects: Corruption><1024.891><255.8736><0~100, CorruptionTube><1108.973><350.1714><-52.64795~41.6604, CorruptionTube><977.6865><172.8647><31.3042~100, InsectGroup><1016.408><292.0225><120.2363~287.1135~-275.3344~-87.50937~StandardFly~0.5, 
+FadePalette: 8, 0.5026608

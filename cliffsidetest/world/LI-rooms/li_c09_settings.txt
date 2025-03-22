@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Flood
+RumbleIntensity: 0.06427765
+Clouds: 0.7810576
+Grime: 0.1674705
+BkgDroneVolume: 0.1546647
+Palette: 3008
+EffectColorA: 10
+EffectColorB: 14
+Effects: LightBurn-0.2319973-20-20, 
+AmbientSounds: OMNI><AM_SUB-BlankState.ogg><747.3949><266.4579><0.3453349><1.04176, OMNI><MSC-LowGroans.ogg><711.5966><311.4397><0.1365363><1.0696, OMNI><AM_WIN-SubWnd.ogg><733.3009><494.0172><0.2680014><1.139198, OMNI><MSC-HeavyCreaking.ogg><591.3619><396.3916><0.06693832><1.361915, OMNI><AM_ENV-CityTone.ogg><748.6586><560.7946><0.2989356><0.7633628, OMNI><AM_SUB-CaveTone.ogg><718.1909><252.9163><0.5><1, 
+FadePalette: 8, 0.5026607, 0.502661, 0.5050724

@@ -1,0 +1,6 @@
+Template: LI_SettingsTemplate_mines
+BkgDroneVolume: 0.2072014
+Palette: 3009
+Effects: Fog-0.5026603-887.3073-344.4646, 
+PlacedObjects: LightSource><2555.091><458.6284><0.1416102~White~-110.9875~170.4344~50~86.60254~0~0~None~0~0, LightFixture><1577.004><653.5221><RedLight~17.32051~-10~24, LightFixture><1286.627><170.0144><RedLight~17.32051~-10~87, LightFixture><1875.522><253.4963><RedLight~17.32051~-10~85, LightSource><384.1281><459.4737><0.2034753~White~-128.774~207.4302~50~86.60254~0~0~None~0~0, Mushroom><2610.339><448.407><0~0~2~3, Mushroom><2486.32><490.9597><0~0~2~3, Mushroom><2514.622><479.8082><0~0~2~3, Mushroom><2504.298><482.6124><0~0~2~3, 
+FadePalette: 3011, 0.8530685, 0.703725, 0.806669

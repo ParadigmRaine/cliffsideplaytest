@@ -1,0 +1,22 @@
+DangerType: Flood
+CeilingDrips: 0.5
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04452905
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.8738562
+Grime: 0.159737
+BkgDroneVolume: 0
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
+Palette: 3008
+EffectColorA: 0
+EffectColorB: 6
+Effects: Fog-0.8042573-20-20, Ant-0.5026607-166.6-66.28437, RockFlea-0.6031932-682.4073-72.68749, FireFlies-0.06959998-540.1156-154.5052, 
+AmbientSounds: OMNI><MSC-HeavyCreaking.ogg><712.8237><322.4208><0.1056048><0.5128053, OMNI><MSC-LowGroans.ogg><722.1107><193.0404><0.1210719><0.805124, OMNI><SO_WAT-MoreDrips.ogg><754.302><502.3511><0.5><1, OMNI><SO_WAT-LilDrips.ogg><831.5154><387.1414><0.5><1, OMNI><AM_SUB-CaveTone.ogg><724.1567><251.828><0.5><1, OMNI><AM_SUB-BlankState.ogg><837.9877><55.11096><0.3144027><0.8747224, OMNI><AM_ENV-SubTerr.ogg><576.7142><355.7049><0.2138698><1, OMNI><AM_WIN-SubWnd.ogg><515.2528><477.4537><0.3221356><1, 
+

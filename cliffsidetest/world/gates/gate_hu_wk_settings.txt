@@ -1,0 +1,14 @@
+Template: NONE
+DangerType: None
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 0.07733221
+Grime: 0.1056048
+Palette: 3000
+EffectColorA: 21
+EffectColorB: 15
+Effects: SkyAndLightBloom-0.5050725-20-20, ReplaceEffectColorA-0-327.3896-57.74687-Color-0.7912021-0.5901383-1, Dustpuffs-0.3093302-636.1625-431.2625, FairyParticles-0.5050719-712.2886-568.574, 
+PlacedObjects: ElectricGateData><484.7264><118.4165><-50.8291~-402.4875~False~False~False~True~True~True~True~False~0~1~False~0.1778651~1~0.2834692, CommonGateData><497.9648><246.0727><-489.0875~-312.1323~False~False~False~False~False~False~False~True~0.1314651~1~1, FairyParticleSettings><369.6212><-68.27962><280.3344~135.2998~0~0.7732889~0~0~1~1~460.1274~500~38.66444~69.59998~5~30~0~360~0.09279865~0.1304003~0~1~0~1~1~1~10~Circle~SIN_IO~LINEAR~0~0~0, 
+AmbientSounds: OMNI><am_env-lightwind.ogg><727.7179><292.9172><0.2757363><1, OMNI><am_env-citytone.ogg><768.9516><436.436><0.3530691><1.250559, OMNI><am_sub-mysticcave1.ogg><670.8783><512.021><0.1133376><1, 
+FadePalette: 3004, 0.185598
+MorePalette0: 8, 0.2010644

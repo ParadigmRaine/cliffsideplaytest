@@ -1,0 +1,8 @@
+Template: NONE
+Grime: 0.1288041
+Palette: 3002
+EffectColorA: 3
+EffectColorB: 8
+Effects: Lightning-0.5026607-347.9823-89.01146, ReplaceEffectColorA-0-30-30-Color-0.603193-0.4871944-1, FakeGate-1-20-20, LavaSurface-1-318.1802-6.561455, 
+PlacedObjects: WaterGateData><164.2639><67.17349><-161.1052~129.6833~False~False~Hiddn~Hiddn, LightSource><479.2443><236.929><0.6055875~Environment~2.134399~245.8489~-573.949~131.4244~0~0~None~0~0, 
+AmbientSounds: OMNI><am_rain-mehthunder.ogg><737.6011><158.8522><0.1520041><1, OMNI><am_rain-quietthunder.ogg><775.2953><567.2031><0.1365376><1, OMNI><am_rain-rollingthunder.ogg><814.215><242.1786><0.1210712><1, OMNI><am_rain-rumbles.ogg><759.2923><355.7741><0.1056048><1, OMNI><am_env-wallhum.ogg><496.5698><251.3988><0.3840013><0.5545653, 

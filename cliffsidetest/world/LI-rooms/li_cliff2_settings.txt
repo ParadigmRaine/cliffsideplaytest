@@ -1,0 +1,8 @@
+Clouds: 0.4871942
+Grime: 0.136538
+Palette: 3003
+EffectColorA: 10
+EffectColorB: 5
+Effects: Fog-1-20-20, LightRain-0.5567936-30-30, 
+FadePalette: 3002, 0.5567932, 0.5877262, 0.6031929
+BackgroundOffset: 0,-180

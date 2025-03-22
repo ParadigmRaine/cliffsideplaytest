@@ -1,0 +1,10 @@
+Template: LI_SettingsTemplate_inside
+WaveSpeed: 0.4675555
+WaveLength: 0.9837778
+WaveAmplitude: 3.162063E-07
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 3008
+Effects: Fog-0.5026608-40-40, LightBurn-0.2087979-673.2375-425.65, 
+FadePalette: 10, 0.2087973
+MorePalette0: 35, 0.2087973

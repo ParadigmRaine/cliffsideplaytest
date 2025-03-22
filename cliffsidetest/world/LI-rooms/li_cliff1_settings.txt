@@ -1,0 +1,14 @@
+Template: NONE
+WaveSpeed: 0.5389816
+WaveLength: 0.9805092
+WaveAmplitude: 1.326299E-17
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.6882583
+Grime: 0.2370702
+Palette: 3003
+EffectColorA: 14
+EffectColorB: 6
+Effects: ReplaceEffectColorA-0-20-20-Color-0.1106771-0.4741395-1, Bloom-0.6109261-30-30, 
+PlacedObjects: DataPearl><806.604><170.458><0~0~0~0~Misc~0, 
+FadePalette: 8, 0.1082653, 0.2010642

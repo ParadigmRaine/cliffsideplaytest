@@ -1,0 +1,9 @@
+Template: NONE
+Clouds: 0.796524
+Grime: 0.1752041
+Palette: 3003
+EffectColorA: 4
+EffectColorB: 5
+Effects: LightBurn-0.3634624-20-20, 
+AmbientSounds: OMNI><msc-structurestrain.ogg><723.338><350.8559><0.07467254><0.9025608, OMNI><am_env-lightwind.ogg><720.1436><218.0995><0.291202><0.8747224, OMNI><am_win-strongwnd2.ogg><750.9459><66.51114><0.3453356><1, OMNI><msc-metalvariety.ogg><753.6092><417.5496><0.09013765><1, 
+FadePalette: 3002, 0.7269247

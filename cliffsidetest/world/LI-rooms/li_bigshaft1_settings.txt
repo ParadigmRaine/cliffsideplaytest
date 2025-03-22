@@ -1,0 +1,5 @@
+Template: LI_SettingsTemplate_mines
+Grime: 0
+BkgDroneVolume: 0.1546647
+PlacedObjects: LightSource><1209.318><1220.756><0.02561221~White~1016.674~109.249~54.98016~-260.5891~0~0~None~0~0, ClimbableRope><543.2078><1006.707><18.49789^-643.8698, ClimbableRope><1232.6><1628.198><-4.980347^-884.3427, ClimbableWire><410.1631><945.5087><1259.281~25.29684~17.32051~-10~Black~2, ClimbableWire><1254.192><2009.627><170.75~1.818787~15.89757~-180.0385~Black~2, ReliableSpear><1914.726><2509.073><, ReliableSpear><1958.873><2524.352><, ReliableSpear><1987.945><2585.922><, ReliableSpear><1968.762><2561.754><, ReliableSpear><1993.608><2516.336><, ClimbableRope><1866.881><3215.512><-2.845886^-515.0958, ClimbableWire><820.6078><3196.296><184.2678~-44.42607~17.32051~-10~Black~11, StarLemon><162.7634><3428.714><-47.66769~-226.2437~2~3, StarLemon><344.004><3433.65><0~0~2~3, StarLemon><2026.609><1205.797><0~0~2~3, 
+AmbientSounds: OMNI><AM_WIN-StrongWnd2.ogg><746.4434><506.3704><0.5><1, 

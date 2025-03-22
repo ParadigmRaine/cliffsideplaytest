@@ -1,0 +1,4 @@
+Effects: Fog-0.6031929-20-20, AboveCloudsView-1-30-30, 
+PlacedObjects: CustomDecal><1676.679><1199.277><-54.0708~94.07074~97.62817~210.7499~154.5447~44.11038~-290.275~-263.2396~0.641859~1~0~ngipurpletriangle~1~0.3272088~1~0.2344095~0.6752041~0.907202~0.520539~0.1648102, 
+BackgroundOffset: -4500,-750
+BackgroundType: atc_si_msc

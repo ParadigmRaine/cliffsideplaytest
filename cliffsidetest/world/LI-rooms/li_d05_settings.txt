@@ -1,0 +1,4 @@
+Template: LI_SettingsTemplate_inside
+Palette: 3008
+Effects: LightBurn-0.1413043-30-30, 
+FadePalette: 35, 0.3043478, 0.3043478, 0.3043478, 0.3043478

@@ -1,0 +1,12 @@
+ng_landscape - 6 : 17
+ng_landscape - 5 : 16
+ng_landscape - sparks : 15
+ng_landscape - 4 : 8
+ng_landscape - 3 : 7
+ng_landscape - gold : 6
+ng_landscape - 2 : 4
+ng_landscape - particle2 : 3
+ng_landscape - 1 : 2
+ng_landscape - particle1 : 1
+
+

@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 0.07733221
+Grime: 0.1056048
+Palette: 3000
+EffectColorB: 14
+Effects: SkyBloom-1-20-20, ReplaceEffectColorA-0-275.4531-76.24478-Color-0.8608017-0.6495929-1, DayNight-1-362.9625-15.05937, Dustpuffs-1-14.3479-116.0864, RockFlea-0.0386671-991.8916-318.8521, FireFlies-0.05413271-1100.033-159.4854, 
+PlacedObjects: SuperStructureFuses><7.662888><-13.8938><154.5448~54.94063, 

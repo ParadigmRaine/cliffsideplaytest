@@ -1,0 +1,16 @@
+Template: LI_SettingsTemplate_summit
+RainIntensity: 0.1029438
+RumbleIntensity: 0.07974442
+WaveSpeed: 0.4942228
+WaveLength: 0.9971114
+WaveAmplitude: 2.270036E-07
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+EffectColorA: 10
+EffectColorB: 5
+Effects: AboveCloudsView-1-40-40, ReplaceEffectColorB-0-385.7292-530.8667-Color-0.2938637-0.5877274-0.3634617, 
+PlacedObjects: SnowSource><1092.778><2217.79><Radial~-473.1198~-387.349~-275.1364~-149.6017~0.5514712~1, CustomDecal><23.24556><1802.615><-1.525879E-05~62.76666~414.2271~62.76666~414.2271~0.7114868~450.3531~-98.89267~0~0.4122732~0~ngiminesblue~0.5695987~1~0.03600676~1~0.4304007~1~0.3994678~1, 
+FadePalette: 41, 0.3093298, 0.255197, 0.2010644
+MorePalette0: 40, 0.05413288, 0.03093288, 0
+BackgroundOffset: 0,-1000
+BackgroundType: atc_si_msc

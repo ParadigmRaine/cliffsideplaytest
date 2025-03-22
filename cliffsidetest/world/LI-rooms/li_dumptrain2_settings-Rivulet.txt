@@ -1,0 +1,19 @@
+Template: NONE
+DangerType: Blizzard
+WaveSpeed: 0.5468959
+WaveLength: 0.976552
+WaveAmplitude: 8.824876E-09
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.3866624
+Grime: 0.1906705
+Palette: 3003
+EffectColorA: 0
+EffectColorB: 21
+Effects: Fog-1-20-20, ReplaceEffectColorA-0-700.1937-372.9229-Color-0.3866624-0.2706644-0.9149362, Coldness-1-335.2156-19.32813, Moth-0.1082653-128.2208-76.99583, AboveCloudsView-1-167.3906-127.549, 
+PlacedObjects: SnowSource><402.8627><580.1391><None~814.6199~-65.7699~18.6958~-150.3131~0.3968062~0.3866624, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><261.1652><336.3091><0.5><1, OMNI><AM_WIN_Hilltop.ogg><759.9926><319.9271><0.407202><1, OMNI><MSC-MetalVariety.ogg><724.4764><291.2918><0.1056041><0.7076849, SPOT><AM_WIN-StrongWnd2.ogg><722.356><510.809><0.5><1><1052.476><808.5309><-349.1083><-344.1282><0><1, 
+FadePalette: 41, 0.255197
+MorePalette0: 40, 0.157076
+BackgroundOffset: 4500,-250
+BackgroundType: atc_si_msc

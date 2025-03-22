@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: None
+Clouds: 0
+Grime: 0.1906705
+BkgDroneVolume: 0
+Palette: 3008
+AmbientSounds: OMNI><AM_SUB-CaveTone.ogg><827.9192><196.635><0.5><1, 
+FadePalette: 8, 0.5026607

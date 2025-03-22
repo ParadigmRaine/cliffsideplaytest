@@ -1,0 +1,17 @@
+Template: NONE
+DangerType: Thunder
+RainIntensity: 0.2034763
+RumbleIntensity: 0.203476
+WaveSpeed: 0.5006398
+WaveLength: 0.9996801
+WaveAmplitude: 0.04828818
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 1
+Grime: 0
+Palette: 3006
+EffectColorB: 8
+Effects: ReplaceEffectColorA-0-30-30-Color-0.3943953-0.3170629-1, Lightning-0.3093297-330.1959-38.49791, SilenceWater-1-387.1917-138.1812, ZeroG-0.3015966-788.4542-392.8834, ElectricDeath-0.3015959-638.9688-504.5031, 
+PlacedObjects: NoSpearStickZone><481.7842><244.2972><159.3667~187.5094, LightFixture><156.3861><463.3528><RedLight~17.32051~-10~91, LightFixture><573.8463><-10.47279><RedLight~17.32051~-10~0, LightFixture><386.7498><-17.09041><RedLight~17.32051~-10~15, LightSource><156.7406><22.41656><1~EffectColor1~1.422913~134.8615~50~86.60254~0~0~None~0~0, LightSource><817.7454><489.3707><1~EffectColor1~17.07495~104.9802~-88.02292~-183.0401~0~0~None~0~0, LightSource><81.96085><196.8944><0.2498754~Environment~142.2917~225.2167~-272.2906~69.52759~0~0~None~0~0, LightSource><755.7122><226.0702><0.3040082~Environment~-125.9281~226.6396~118.3~-118.2975~0~0~None~0~0, ElectricGateData><466.2784><-62.19546><-488.376~31.5021~True~False~False~True~True~True~True~False~0~1~False~0~1~0.5, CommonGateData><487.1349><256.1612><-629.2448~-330.6302~False~False~False~False~False~False~True~True~0.7037256~0.7061365~1, InsectGroup><482.8123><194.0403><-516.5188~282.8448~89.64374~-134.4656~GrassHopper~0.2138698, CGGateCustomization><478.6422><250.454><120.6323~27.94482~False~False~True~True~-64, 
+AmbientSounds: OMNI><AM_RAIN-Rumbles.ogg><730.8865><300.3682><0.2525356><1, OMNI><AM_IND-SuperStructure.ogg><747.2103><491.2092><0.206137><1, OMNI><AM_SUB-BlankState.ogg><743.0766><161.4677><0.5><1, 
+FadePalette: 3001, 0.5026608

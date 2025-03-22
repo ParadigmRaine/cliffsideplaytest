@@ -1,0 +1,5 @@
+Effects: AboveCloudsView-1-40-40, 
+PlacedObjects: ClimbablePole><1446.557><147.3862><-22.05524~118.4979~17.32051~-10~Black, ClimbablePole><2116.836><267.4677><-20.63232~114.2292~-127.817~-133.7937~Black, 
+FadePalette: 41, 0.2087975, 0.2010644, 0.2010642
+BackgroundOffset: 0,-1000
+BackgroundType: atc_si_msc

@@ -1,0 +1,7 @@
+Template: LI_SettingsTemplate_inside
+Clouds: 0.7501244
+Palette: 3003
+Effects: Fog-1-768.5333-422.7646, 
+AmbientSounds: SPOT><AM_ENV-LightWind.ogg><727.1212><518.8447><0.5><0.7076824><1088.308><210.4197><-100.098><-4.051178><0><0.3629303, 
+FadePalette: 3008, 0.502661, 1
+MorePalette0: 10, 0.4098617, 0.502661

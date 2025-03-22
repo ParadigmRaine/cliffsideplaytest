@@ -1,0 +1,3 @@
+BkgDroneVolume: 0
+Effects: Fog-0-40-40, SkyAndLightBloom-0.3789287-331.6583-134.5844, 
+FadePalette: 8, 0.4098619

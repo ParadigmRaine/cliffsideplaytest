@@ -1,0 +1,17 @@
+Template: NONE
+DangerType: Flood
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04788044
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 1
+Grime: 0.3298688
+BkgDroneVolume: 0
+Palette: 12
+EffectColorA: 19
+Effects: SilenceWater-0.5026607-20-20, 
+PlacedObjects: CustomDecal><70.0011><20.75758><-6.403076~446.9542~840.3907~451.223~846.0823~-4.980209~-223.3979~78.26039~0~1~0~rustb3~0.5~1~0.5~1~0.5~1~0.5~1, 
+AmbientSounds: OMNI><am_ind-utility04.ogg><727.1399><549.5474><0.1906698><0.8051216, OMNI><SO_WAT-MoreDrips.ogg><768.0219><507.2373><0.5><1, OMNI><SO_WAT-LilDrips.ogg><731.5969><514.52><0.5><1, OMNI><SO_WAT-ProperDrips.ogg><734.3733><456.658><0.5><1, OMNI><SO_SFX-LakeBottom.ogg><735.1096><245.664><0.3762678><0.4710453, OMNI><MSC-StructureStrain.ogg><731.3713><118.8956><0.1520041><1, SPOT><Basic Mech.wav><427.8246><476.4645><0.1752041><1.125279><532.886><312.7655><-35.35534><-35.35534><0><0.3938632, OMNI><AM_WAT-Sea03.ogg><431.7839><211.7923><0.1984034><0.8051216, OMNI><SO_WAT-OpenFlow.ogg><346.9826><347.6323><0.206137><0.4014463, OMNI><SO_WAT-Splashes.ogg><604.0848><170.1802><0.5><1, 
+FadePalette: 345, 0.1546647
+MorePalette0: 8, 0.5026597

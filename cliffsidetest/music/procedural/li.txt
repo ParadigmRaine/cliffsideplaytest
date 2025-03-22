@@ -1,0 +1,20 @@
+TH_LI - ARPS : NEUTRAL
+TH_LI - BASS : NEUTRAL
+TH_LI - KICK : NEUTRAL
+TH_LI - LEAD : NEUTRAL
+TH_LI - PERC : NEUTRAL
+TH_LI - PING : NEUTRAL
+TH_LI - SNARE : NEUTRAL
+TH_LI - STRINGS : NEUTRAL
+TH_LI - VOX : NEUTRAL
+TH_LI - TRAIN1 : NEUTRAL
+TH_LI - TRAIN2 : NEUTRAL
+
+
+Layer : TH_LI - PERC, TH_LI - KICK
+Layer : TH_LI - PERC, TH_LI - KICK, TH_LI - VOX, TH_LI - BASS
+Layer : TH_LI - PERC, TH_LI - KICK, TH_LI - VOX, TH_LI - BASS, {Cliffside}TH_LI - PING
+Layer : TH_LI - PERC, TH_LI - KICK, TH_LI - VOX, TH_LI - BASS, {Cliffside}TH_LI - PING, {Cliffside|Bygone Mineshaft}TH_LI - TRAIN1
+Layer : TH_LI - PERC, TH_LI - KICK, TH_LI - VOX, TH_LI - BASS, {Cliffside}TH_LI - PING, {Cliffside|Bygone Mineshaft}TH_LI - TRAIN1, {Cliffside|Summit of Mistakes}TH_LI - STRINGS, {Cliffside}TH_LI - ARPS
+Layer : TH_LI - PERC, TH_LI - KICK, TH_LI - VOX, TH_LI - BASS, {Cliffside}TH_LI - PING, {Cliffside|Bygone Mineshaft}TH_LI - TRAIN1, {Cliffside|Summit of Mistakes}TH_LI - STRINGS, {Cliffside}TH_LI - ARPS, TH_LI - SNARE, {Cliffside|Summit of Mistakes}TH_LI - LEAD
+Layer : TH_LI - PERC, TH_LI - KICK, TH_LI - VOX, TH_LI - BASS, {Cliffside}TH_LI - PING, {Cliffside}TH_LI - TRAIN1, {Cliffside|Summit of Mistakes}TH_LI - STRINGS, {Cliffside}TH_LI - ARPS, TH_LI - SNARE, {Cliffside|Summit of Mistakes}TH_LI - LEAD, {Cliffside|Bygone Mineshaft}TH_LI - TRAIN2

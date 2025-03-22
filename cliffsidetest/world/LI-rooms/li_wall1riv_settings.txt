@@ -1,0 +1,16 @@
+DangerType: Blizzard
+RainIntensity: 0.8066692
+WaveSpeed: 0.4723
+WaveLength: 0.98615
+WaveAmplitude: 1.992593E-08
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.6109261
+Grime: 0.1984034
+Palette: 3003
+EffectColorA: 5
+EffectColorB: 10
+Effects: Fog-1-20-20, 
+PlacedObjects: SnowSource><584.7595><1980.616><None~-795.4104~280.7104~-462.9615~1.939026~0.3736077~0.2551962, SnowSource><1591.032><344.6552><Radial~-1017.385~11.77921~-462.9615~1.939026~0.7370698~0, SnowSource><707.0156><1044.276><Radial~-505.8468~110.6718~-462.9615~1.939026~0.5746719~0, SnowSource><541.2459><200.9407><Radial~-130.9083~28.14264~-462.9615~1.939026~0.3581414~0.2706637, 
+AmbientSounds: OMNI><am_env-natwind.ogg><745.2158><190.7756><0.5><1, 
+FadePalette: 40, 0.1314651, 0.1469317, 0.1546649, 0.1546649, 0.1469317, 0.1314651

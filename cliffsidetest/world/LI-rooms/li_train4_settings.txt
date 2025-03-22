@@ -1,0 +1,11 @@
+Template: NONE
+Grime: 0.2293366
+BkgDroneVolume: 0
+Palette: 3003
+EffectColorA: 9
+EffectColorB: 4
+Effects: FireFlies-0.06186593-20-20, RockFlea-0.4407946-298.9313-110.3948, LightBurn-0.2010644-36.40314-94.74271, 
+PlacedObjects: ClimbablePole><249.6378><428.4939><349.3261~78.65625~17.32051~-10~Black, ClimbablePole><704.9381><546.8567><349.3261~139.1302~17.32051~-10~Black, 
+AmbientSounds: SPOT><am_env-natwind.ogg><729.6027><470.4369><0.5><1><1229.648><2199.641><356.6582><-396.7762><0><1, SPOT><am_env-outside.ogg><522.6813><396.2705><0.5><1><1290.947><2037.965><564.4041><-347.6856><0><1, OMNI><msc-metalvariety.ogg><738.8662><283.5236><0.0978712><0.7772833, OMNI><am_win-subwnd.ogg><746.5112><477.5566><0.3762678><1, OMNI><am_sub-blankstate.ogg><780.3037><165.3652><0.3298685><1, OMNI><am_sub-cavetone.ogg><692.5737><234.9082><0.3917342><1, 
+FadePalette: 3009, 0.4021285, 0.3015966, 0.5026608, 0.1082654, 0.2010642, 0, 0, 0.6650591
+MorePalette0: 8, 0, 0, 0, 0, 0, 0, 0, 0

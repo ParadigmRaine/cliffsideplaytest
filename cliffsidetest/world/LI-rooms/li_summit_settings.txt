@@ -1,0 +1,19 @@
+Template: NONE
+DangerType: Blizzard
+RainIntensity: 0.133877
+RumbleIntensity: 0
+WaveSpeed: 0.4998958
+WaveLength: 0.9999479
+WaveAmplitude: 2.940208E-09
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.1778647
+Grime: 0.1906705
+Palette: 3003
+Effects: AboveCloudsView-1-20-20, Fog-1-96.16559-106.8375, 
+PlacedObjects: SnowSource><1044.352><451.1489><None~-1491.928~188.9324~-70.94788~-170.9454~0.6133378~1, LightSource><2315.658><1497.691><0.3813424~White~-1362.443~-1515.01~-330.6301~-221.459~1~1~None~0~0, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><732.2224><493.2365><0.5><1, OMNI><AM_WIN_Hilltop.ogg><732.7949><325.0456><0.5><1, OMNI><AM_WIN-HowlingWnd.ogg><454.2736><391.0748><0.5><1, 
+FadePalette: 41, 0.4098619, 0.4098619, 0.4021285, 0.409862
+MorePalette0: 40, 0.2087973, 0.2010637, 0.2010644, 0.2010644
+BackgroundOffset: 4500,-800
+BackgroundType: atc_si_msc

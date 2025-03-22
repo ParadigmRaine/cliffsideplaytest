@@ -1,0 +1,9 @@
+Clouds: 0.8042569
+Grime: 0.1752037
+Palette: 3003
+EffectColorA: 10
+EffectColorB: 5
+Effects: LightRain-0.6031929-20-20, Fog-1-266.2042-115.375, GreenSparks-0.01546644-683.1188-512.3688, 
+PlacedObjects: LightFixture><650.0457><447.7159><RedLight~17.32051~-10~63, 
+AmbientSounds: OMNI><am_env-natwind.ogg><727.6102><304.4194><0.3840013><1, OMNI><am_rain-mehthunder.ogg><820.0039><517.0335><0.1365376><1, OMNI><am_rain-quietthunder.ogg><722.3514><559.3691><0.2370698><1, OMNI><am_rain-rollingthunder.ogg><660.1252><419.5545><0.2138698><1, OMNI><msc-metalvariety.ogg><442.7998><475.7724><0.0978712><0.9721604, OMNI><am_env-winterhum.ogg><768.0079><217.0392><0.5><1, 
+FadePalette: 3002, 0.6031932, 0.6341258, 0.6650588, 0.6650588, 0.6882586, 0.7037252

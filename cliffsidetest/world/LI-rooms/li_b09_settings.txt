@@ -1,0 +1,13 @@
+Template: LI_SettingsTemplate_inside
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 3003
+Effects: SilenceWater-0.7037243-792.0114-481.8156, LightBurn-0.1195652-576-348, 
+PlacedObjects: CGDrySpot><-208.2653><-17.87012><100~50~1357.147^761.6563~True~None, LightSource><1037.119><422.6011><0.05434782~White~336~-12~50~86.60254~1~1~None~0~0, LightSource><1421><431><0.05434782~White~371~-11~50~86.60254~1~1~None~0~0, LightSource><1810><442.9968><0.05434782~White~345~-25~50~86.60254~1~1~None~0~0, 
+FadePalette: 35, 0.5026608, 0.5026607
+WetTerrain: OFF
+MorePalette0: 8, 0.2551973, 0.2242637

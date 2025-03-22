@@ -1,0 +1,12 @@
+3000 - exodus
+3001 - crackling plafond
+3002 - darkwater
+3003 - cliffside
+3004 - vent zone
+3005 - NGI core
+3006 - NGI
+3007 - descending inversion
+3008 - cliffside inside
+3009 - bygone mineshaft transition/very dark areas
+3010 - vent zone but acid is less green (gourm vent zone)
+3011 - bygone mineshaft

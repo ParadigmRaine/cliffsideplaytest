@@ -1,0 +1,16 @@
+Template: NONE
+DangerType: Flood
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04556853
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 1
+Grime: 0.2293363
+BkgDroneVolume: 0
+Palette: 12
+Effects: WaterFluxMinLevel-0.3557291-20-20, WaterFluxMaxLevel-0.3557291-239.1687-99.72291, 
+PlacedObjects: PlacedWaterfall><357.9293><488.2009><131.3042~-81.61975~1.061375~3, PlacedWaterfall><570.724><488.7604><131.3042~-81.61975~1.061375~3, CommonGateData><491.8849><236.5988><-434.3052~-127.1531~False~False~False~False~False~False~False~True~0.1314657~0.543739~0.4741397, ElectricGateData><473.8296><-66.28114><368.9312~178.7739~False~True~True~False~False~True~False~False~0~1~False~0~1~0.5, 
+AmbientSounds: OMNI><am_ind-utility04.ogg><748.4303><548.4097><0.2757356><0.8468816, OMNI><SO_SFX-LakeBottom.ogg><721.7968><249.1278><0.4072007><0.4988861, OMNI><MSC-StructureStrain.ogg><769.4936><135.8682><0.2061363><1, OMNI><AM_WAT-Sea03.ogg><466.1896><121.6098><0.2912027><0.763364, OMNI><SO_WAT-OpenFlow.ogg><522.3671><337.2854><0.2757356><0.262249, SPOT><SO_WAT-Splashes.ogg><709.5972><414.5851><0.5><1><477.7159><278.6049><-162.7064><-112.1928><0><0.6645262, 
+FadePalette: 345, 0.100532
+MorePalette0: 8, 0.5026603

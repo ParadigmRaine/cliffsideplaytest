@@ -1,0 +1,3 @@
+Effects: AboveCloudsView-1-54.14996-113.9125, 
+BackgroundOffset: -4500,-800
+BackgroundType: atc_si_msc

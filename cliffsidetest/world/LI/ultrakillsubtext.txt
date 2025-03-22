@@ -1,0 +1,4 @@
+base : cliffside
+cliffside : 1 : rock and stone
+bygone mineshaft : 2 : bygone mineshaft
+summit of mistakes : 3 : summit of mistakes

@@ -1,0 +1,15 @@
+Template: LI_SettingsTemplate_summit
+DangerType: Blizzard
+RainIntensity: 0.01014477
+RumbleIntensity: 0
+WaveSpeed: 0.4999967
+WaveLength: 0.9999983
+WaveAmplitude: 4.392958E-09
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Effects: AboveCloudsView-1-507.3886-548.6531, ReplaceEffectColorB-0-680.9844-397.1125-Color-0.2938631-0.5413274-0.6288041, 
+PlacedObjects: SnowSource><-5.42244><1360.07><Radial~441.8158~-305.5313~-185.4927~-213.6329~0.4432068~0.5567934, SnowSource><555.4948><1296.705><Radial~441.8158~-305.5313~-185.4927~-213.6329~0.4432068~0.4794603, SnowSource><914.7816><1069.038><Radial~327.2711~-163.951~-185.4927~-213.6329~0.2344095~0, SnowSource><429.9151><904.5943><Radial~97.46985~196.7584~228.576~275.139~0.2189431~0.4717278, SnowSource><473.9719><116.4623><Radial~-125.928~295.6511~50~86.60254~0.3504075~0.1933302, Corruption><864.6952><677.9943><-88.93231~30.98853, Corruption><787.5099><280.2008><-12.80621~83.63644, Corruption><329.7256><661.386><0~100, Corruption><705.472><795.0499><-121.6594~114.9406, CorruptionTube><780.087><261.2538><-456.0448~352.5677, CorruptionTube><300.8684><680.7816><340.7885~131.3042, CorruptionTube><706.9362><785.6455><-411.2229~-69.32707, LightFixture><779.3426><517.2368><RedLight~17.32051~-10~100, 
+FadePalette: 41, 0.3247963, 0.3170629
+MorePalette0: 8, 0.502661, 0
+BackgroundOffset: 0,-800
+BackgroundType: atc_si_msc

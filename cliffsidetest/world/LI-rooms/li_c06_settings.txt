@@ -1,0 +1,6 @@
+Template: LI_SettingsTemplate_inside
+RumbleIntensity: 0.05654443
+Palette: 3003
+Effects: LightBurn-0.2087979-686.0042-441.974, 
+FadePalette: 35, 0.3325293, 0.3325295, 0.3325298
+MorePalette0: 8, 0.2087979, 0.2010644, 0.2010644

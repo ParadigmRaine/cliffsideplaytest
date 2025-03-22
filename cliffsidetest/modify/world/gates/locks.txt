@@ -1,0 +1,13 @@
+[ADD]GATE_NG_WK : 5 : 5
+[ADD]GATE_LI_NG : 8 : 4
+[ADD]GATE_LI_WK : 5 : 1
+[ADD]GATE_WK_GN : 2 : 2
+[ADD]GATE_WK_LI : 1 : 3 : SWAPMAPSYMBOL
+[ADD]GATE_NG_LI : 5 : 1
+[ADD]GATE_MF_LI : 1 : 1
+[ADD]GATE_HU_WK : 1 : 10
+[ADD]LI_TEMPGATE : Forbidden : Forbidden
+[ADD]GATE_LI_MF : Forbidden : Forbidden
+[ADD]GATE_NG_HU : R : 1
+
+

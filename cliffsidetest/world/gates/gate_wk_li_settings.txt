@@ -1,0 +1,16 @@
+Template: NONE
+DangerType: Flood
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04507615
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Grime: 0.1288041
+BkgDroneVolume: 0
+Palette: 3002
+EffectColorA: 7
+EffectColorB: 9
+Effects: Fog-0.5050727-20-20, SilenceWater-0.3015966-176.5604-73.39896, 
+PlacedObjects: LightSource><-88.5676><302.8177><0.2808085~White~-27.74687~173.9917~50~86.60254~0~0~None~0~0, LightSource><815.0662><186.6815><0.1957431~White~-65.45416~123.4781~-212.5282~-179.4829~0~0~None~0~0, 
+AmbientSounds: OMNI><AM_SUB-BlankState.ogg><734.3359><264.607><0.3066685><0.7076837, OMNI><AM_SUB-CaveTone.ogg><710.1719><129.1118><0.5><1, OMNI><AM_ENV-SubTerr.ogg><745.2448><439.5854><0.3530678><1, DIR><AM_RAIN-RollingThunder.ogg><496.932><399.5418><0.206137><1><78.83012><0, DIR><AM_RAIN-QuietThunder.ogg><855.1615><140.3798><0.206137><1><82.81783><0, 
+FadePalette: 3011, 0.5026608

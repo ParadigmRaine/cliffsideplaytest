@@ -1,0 +1,2 @@
+Template: LI_SettingsTemplate_mines
+BkgDroneVolume: 0.2072011

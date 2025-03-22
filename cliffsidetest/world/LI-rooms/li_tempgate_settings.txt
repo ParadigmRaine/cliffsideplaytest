@@ -1,0 +1,6 @@
+Template: LI_SettingsTemplate_inside
+BkgDroneVolume: 0
+Palette: 3003
+Effects: SkyAndLightBloom-0.1725444-686.676-537.2698, SilenceWater-0.502661-736.4781-384.3063, 
+FadePalette: 35, 0.3093298
+MorePalette0: 10, 0.2087979

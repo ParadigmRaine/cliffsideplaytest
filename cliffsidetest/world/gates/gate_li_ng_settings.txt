@@ -1,0 +1,19 @@
+Template: NONE
+DangerType: Thunder
+RainIntensity: 0.1029438
+RumbleIntensity: 0.2034763
+WaveSpeed: 0.5007637
+WaveLength: 0.9996182
+WaveAmplitude: 0.04828818
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.5026607
+Grime: 0.2061366
+BkgDroneVolume: 0
+Palette: 3000
+EffectColorA: 0
+EffectColorB: 13
+Effects: DayNight-1-44.18958-128.1417, ElectricDeath-0.2087975-288.2593-66.99583, Fog-0.3093298-314.5834-17.19375, Darkness-0.2010644-0-0, ReplaceEffectColorB-0-690.1937-355.0969-Color-0.5645261-0.7733254-0.5877255, 
+PlacedObjects: ExitSymbolShelter><43.51721><187.5288><, CGGateCustomization><478.1089><248.7873><100~50~False~False~True~True~-64, ElectricGateData><492.8729><-63.87588><334.7813~-0.5135574~True~False~False~True~True~True~True~False~0~1~False~0~1~0.5, WaterGateData><482.1164><380.476><100~50~False~True~Hiddn~Hiddn, 
+AmbientSounds: OMNI><AM_ENV-WallHum.ogg><357.6475><420.7613><0.5><1, 
+FadePalette: 34, 0.5026608

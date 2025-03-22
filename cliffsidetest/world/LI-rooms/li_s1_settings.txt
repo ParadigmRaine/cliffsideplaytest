@@ -1,0 +1,19 @@
+Template: NONE
+DangerType: None
+WaveSpeed: 0.5054957
+WaveLength: 0.9972521
+WaveAmplitude: 0.04029387
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.5026607
+Grime: 0.2061366
+BkgDroneVolume: 0
+Palette: 3000
+EffectColorA: 10
+EffectColorB: 5
+Effects: ReplaceEffectColorB-0-20-20-Color-0.4871941-0.590138-0.4586732, Fog-0.8042576-274.7416-98.3, Darkness-0.2087975-294.6625-30.71146, AboveCloudsView-1-745.0156-432.6854, ReplaceEffectColorA-0-624.0677-461.1437-Color-0.6573254-0.456261-1, 
+PlacedObjects: LightFixture><504.5048><538.3096><RedLight~17.32051~-10~9, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><732.5728><486.233><0.5><1, OMNI><AM_ENV-WallHum.ogg><728.2817><433.4122><0.5><1, SPOT><SO_SFX-Data5.ogg><710.0238><476.7203><0.5><1><180.6238><375.788><249.9395><-64.52515><0><0.5175947, SPOT><SO_IND-FlourLight.ogg><778.6219><99.55066><0.3453349><1><554.4375><235.534><-64.52512><-57.41054><0><0.03813437, 
+FadePalette: 3003, 0.603193
+BackgroundOffset: 0,-700
+BackgroundType: atc_si_msc

@@ -1,0 +1,6 @@
+Palette: 3003
+EffectColorA: 2
+EffectColorB: 5
+Effects: Fog-1-20-20, LightRain-0.05413288-176.5604-72.6875, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><760.8539><489.8296><0.5><1, OMNI><MSC-MetalVariety.ogg><712.4895><293.3877><0.1056041><1, 
+FadePalette: 3002, 0.2861307, 0.3093298

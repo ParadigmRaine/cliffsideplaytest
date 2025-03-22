@@ -1,0 +1,8 @@
+priming : true
+size : 0.5
+minkarma : -1
+minkarmacap : 1
+radius : 2
+echosong : ELSE VII-GRAND
+room : LI_ECHO
+defaultflip : 1

@@ -1,0 +1,12 @@
+Template: NONE
+Clouds: 0.3866624
+Grime: 0.1906705
+Palette: 3003
+EffectColorA: 0
+EffectColorB: 13
+Effects: Fog-1-20-20, ReplaceEffectColorA-0-700.1937-372.9229-Color-0.6031932-0.4871946-1, Coldness-0.3015964-30-30, Moth-0.1082653-40-40, AboveCloudsView-1-167.3906-127.549, 
+PlacedObjects: InsectGroup><327.2701><209.0563><101.7385~146.9562~0~0~StandardFly~0.5, LightFixture><45.8562><709.254><RedLight~17.32051~-10~58, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><261.1652><336.3091><0.5><1, OMNI><AM_WIN_Hilltop.ogg><759.9926><319.9271><0.407202><1, OMNI><MSC-MetalVariety.ogg><724.4764><291.2918><0.1056041><0.7076849, SPOT><AM_WIN-StrongWnd2.ogg><722.356><510.809><0.5><1><1052.476><808.5309><-349.1083><-344.1282><0><1, 
+FadePalette: 41, 0.255197
+BackgroundOffset: 4500,-250
+BackgroundType: atc_si_msc

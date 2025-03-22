@@ -1,0 +1,12 @@
+RainIntensity: 0.7525359
+Clouds: 0.7037247
+Grime: 0.206137
+Palette: 3003
+EffectColorA: 10
+EffectColorB: 3
+Effects: Fog-1-20-20, ReplaceEffectColorB-0-223.5167-75.53334-Color-0.3943953-0.590138-0.4741397, AboveCloudsView-1-30-30, Bigrubs-1-507.4281-321.7375, 
+PlacedObjects: CustomDecal><663.9255><2493.679><-9.960449~413.5156~298.9708~479.6813~222.1332~-5.691711~-490.1948~-170.0385~0.3247959~1~0~mutantrabbit~0.4949268~0.1546647~0.6186593~0.2653414~0~1~0.04639933~0.7965244, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><712.1458><493.4492><0.5><1, OMNI><MSC-MetalVariety.ogg><733.2332><288.8247><0.1520041><0.7076824, 
+FadePalette: 8, 0, 0, 0.1082654, 0.2087976, 0, 0, 0.1546647, 0.2087978
+BackgroundOffset: 0,-580
+BackgroundType: atc_si_msc

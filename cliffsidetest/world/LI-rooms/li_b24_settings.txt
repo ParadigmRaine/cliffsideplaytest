@@ -1,0 +1,5 @@
+Template: LI_SettingsTemplate_mines
+Clouds: 0.7733241
+BkgDroneVolume: 0.2072014
+PlacedObjects: TradeOutpost><1236.379><911.2522><-50.51352~139.8417, LanternOnStick><1482.617><939.5319><-30.59259~-178.8916, 
+FadePalette: 3008, 0.05413254, 0.2010642

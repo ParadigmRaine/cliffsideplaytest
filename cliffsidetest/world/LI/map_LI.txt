@@ -1,0 +1,369 @@
+GATE_LI_NG: 261><100.5><0><-70><1><
+LI_S1: 58.5><67.5><40><-114><1><
+GATE_LI_WK: 1482><-1630.5><80><-150><0><
+LI_WALL1: -6><-342><0><-224><1><Cliffside
+LI_DEPOT: 879><-1719><0><-232><0><
+LI_PREWK: 1293><-1615.5><40><-114><0><
+LI_WALLCRASH: 45><-870><0><-306><1><Cliffside
+LI_test: 222><-1345.5><0><-218><1><Cliffside
+LI_S2: -2277><-184.5><0><-74><0><
+LI_MINESHAFT1: -1683><-3084><40><-114><1><Bygone Mineshaft
+LI_DUMP1: -582><546><0><-70><0><Summit of Mistakes
+LI_DUMPTRAIN: -771><753><40><-188><0><Summit of Mistakes
+LI_SUMMIT: -3111><1365><80><-228><0><Summit of Mistakes
+LI_DUMPTRAIN2: -465><696><0><-84><0><Summit of Mistakes
+LI_BIGSHAFTTOP: -1176><252><0><-146><1><
+LI_DUMPUNDER1: -1528.5><391.5><40><-126><0><
+LI_DUMPUNDER2: -1773><511.5><80><-154><0><Summit of Mistakes
+LI_DUMP2: -1242><585><120><-268><0><Summit of Mistakes
+LI_CLIFF2: -21><-2202><0><-220><0><Cliffside
+LI_CLIFF1: -456><-1542><40><-184><1><Cliffside
+LI_MINETOP1: -1185><585><0><-70><1><Cliffside
+LI_MINEPIT: -615><405><80><-224><1><Cliffside
+LI_TRAINWALL1: -190.5><-1702.5><0><-222><0><Cliffside
+LI_TRAINWALL2: 300><-1660.5><40><-190><0><Cliffside
+LI_CONTROLROOM: -69><-1569><80><-150><2><
+LI_WALLBRIDGE: -21><-1069.5><0><-70><0><Cliffside
+LI_BIGWALL: 219><-901.5><40><-634><0><Cliffside
+LI_A02: 54><-1381.5><0><-70><1><Cliffside
+LI_S3: -99><-1111.5><40><-110><1><
+LI_D03: -832.5><141><0><-76><2><Cliffside
+LI_S4: -897><183><40><-110><1><
+LI_BIGSHAFT1: -1153.5><-2968.5><0><-374><1><Bygone Mineshaft
+LI_LEG1: 624><-3079.5><0><-294><0><Cliffside
+LI_FAKEGATE: 945><-3387><40><-110><0><
+LI_LEG3: 795><-3279><80><-454><0><
+LI_S5: 1107><-3447><120><-200><0><
+LI_S6: 1449><-1557><0><-70><0><
+LI_LEG2: 624><-2742><0><-224><0><Cliffside
+GATE_WK_LI: 615><-3772.5><0><-70><0><
+LI_ROCKHAVEN: -198><-687><0><-76><1><Cliffside
+LI_LEG4: 795><-2844><0><-296><0><
+LI_LEG6: 963><-2538><40><-184><0><
+LI_C03: 426><-2793><40><-260><0><
+LI_LEG9: 624><-2499><0><-76><0><Cliffside
+LI_LEG5: 795><-2527.5><0><-74><0><
+LI_F03: 303><-2550><0><-144><0><Cliffside
+LI_C04: -3666><798><0><-224><0><Cliffside
+LI_C05: -4008><685.5><40><-118><0><Cliffside
+LI_LEG8: 546><-2071.5><0><-154><0><Cliffside
+LI_WALL2: 183><-1873.5><40><-114><0><Cliffside
+LI_LEG7: 879><-2202><0><-300><0><
+LI_S8: 1101><-2431.5><0><-70><0><
+LI_TRAIN1: -4296><-3693><0><-74><0><
+GATE_MF_LI: -4614><-3702><40><-110><1><
+LI_TRAIN3: -2449.5><-3423><40><-184><0><Cliffside
+LI_B04: -18><-2508><0><-144><0><Cliffside
+LI_A08: -30><-2320.5><40><-110><1><Cliffside
+LI_A12: 177><-1831.5><0><-70><1><Cliffside
+LI_DUMP3: -1590><672><0><-144><0><Summit of Mistakes
+LI_DUMP4: -1863><684><40><-188><0><Summit of Mistakes
+LI_B01: -72><-1269><0><-144><1><Cliffside
+LI_A09: -3360><1210.5><40><-114><0><Summit of Mistakes
+LI_D01: -310.5><-1282.5><0><-294><0><Cliffside
+LI_C01: -99><-1483.5><0><-70><1><Cliffside
+LI_B07: 48><-1740><0><-152><1><Cliffside
+LI_C07: 360><-3502.5><0><-86><0><Bygone Mineshaft
+LI_D06: 141><-3771><0><-76><0><Bygone Mineshaft
+LI_DUMP5: -2497.5><786><0><-224><0><Summit of Mistakes
+LI_DUMP6: -2712><1068><0><-148><0><Summit of Mistakes
+LI_F04: 204><-3039><0><-450><0><Bygone Mineshaft
+LI_A13: -237><-1168.5><0><-70><1><Cliffside
+LI_F01: -430.5><-1011><0><-144><1><Cliffside
+LI_A01: -561><-1129.5><0><-70><1><Cliffside
+LI_A03: -420><-685.5><0><-74><1><Cliffside
+LI_B02: -390><-858><0><-80><1><Cliffside
+LI_A14: -84><-826.5><0><-70><1><Cliffside
+LI_S9: -2088><454.5><0><-70><0><
+LI_DUMPUNDER3: -2079><555><0><-74><0><Summit of Mistakes
+LI_C06: -2307><540><0><-74><1><Cliffside
+LI_B08: -1602><549><0><-74><2><Cliffside
+LI_A15: -1665><610.5><0><-70><1><Cliffside
+LI_ECHO: -1434><738><0><-224><2><Cliffside
+LI_B09: -1893><540><0><-74><1><Cliffside
+LI_C02: -432><-462><0><-224><1><Cliffside
+LI_A04: -135><-561><0><-74><1><Cliffside
+LI_SCAV: -804><358.5><0><-70><1><Cliffside
+LI_E01: -600><-2272.5><0><-374><0><
+LI_D04: -703.5><-1761><40><-188><0><
+LI_C08: -672><-2874><0><-148><0><
+LI_A16: -1359><310.5><0><-70><1><
+LI_A17: -1158><420><0><-70><1><
+LI_TEMPGATE: -4335><826.5><40><-110><0><
+LI_A10: -3504><1075.5><80><-154><0><Cliffside
+LI_S7: -3351><1047><0><-70><1><
+LI_A11: -3495><1026><40><-110><1><Cliffside
+LI_C09: -1107><397.5><0><-70><0><
+LI_TRAIN2: -3513><-3621><0><-144><0><
+LI_B10: -3561><-3030><0><-112><0><Cliffside
+LI_C10: -1912.5><-3486><0><-80><0><
+LI_B11: -2208><-3102><40><-184><0><Cliffside
+LI_TRAIN4: -1930.5><-3231><80><-304><0><Cliffside
+LI_B12: -2211><-2908.5><0><-74><0><Cliffside
+LI_C11: -2475><-3054><80><-300><0><Cliffside
+LI_A06: -612><-282><0><-80><2><Cliffside
+LI_D02: -837><-387><40><-110><2><Cliffside
+LI_A05: -1041><-46.5><0><-74><2><Cliffside
+LI_TRAIN2.5: -2928><-3516><0><-86><0><
+LI_A18: -3705><-3462><40><-110><0><
+LI_B15: -3348><-3438><80><-150><0><
+LI_D08: -3024><-3039><120><-194><0><
+LI_B14: -2916><-3268.5><160><-306><0><
+LI_S10: -2916><-3522><200><-270><1><
+LI_D09: -3393><-3267><0><-144><0><
+LI_B16: -804><-955.5><0><-70><1><
+LI_E02: -4146><-3211.5><0><-370><0><Cliffside
+LI_B13: -3894><-2986.5><40><-110><0><Cliffside
+LI_S11: -4152><-3220.5><0><-70><0><
+LI_C14: -132><-3204><0><-70><0><Bygone Mineshaft
+LI_C13: -600><-3222><40><-132><0><Bygone Mineshaft
+LI_D10: -4572><-3348><80><-316><1><
+LI_B05: -2967><816><0><-78><1><Cliffside
+LI_D05: -3387><744><40><-184><1><Cliffside
+LI_B06: -2715><762><0><-150><1><Cliffside
+LI_G01: -1050><-1188><0><-520><1><Bygone Mineshaft
+LI_CAVE: -1627.5><-2854.5><0><-70><1><Bygone Mineshaft
+LI_B18: -1482><-3285><0><-120><0><Bygone Mineshaft
+LI_TRAIN5: -1246.5><-3003><0><-116><0><
+LI_F02: -354><264><0><-222><2><Cliffside
+LI_A07: -156><-3><40><-110><1><Cliffside
+LI_B03: -303><369><0><-70><1><Cliffside
+LI_EDGE: -66><369><0><-70><1><Cliffside
+LI_A20: -270><435><40><-110><0><Cliffside
+LI_B19: -3051><691.5><0><-70><1><
+LI_A21: -2691><549><0><-74><1><
+LI_A23: -2004><-3081><0><-70><1><
+LI_A24: -4299><-3225><0><-70><1><
+LI_G02: -2340><319.5><40><-114><0><Bygone Mineshaft
+LI_B21: -915><-565.5><0><-150><2><
+LI_BIGSHAFT2: -1177.5><-1.5><80><-226><1><Bygone Mineshaft
+LI_H01: -3052.5><376.5><120><-430><0><
+LI_B22: -2490><565.5><0><-70><0><
+LI_F05: -1290><94.5><0><-230><2><Bygone Mineshaft
+LI_C15: -1629><270><0><-108><1><Bygone Mineshaft
+LI_B24: -738><-1510.5><0><-110><1><
+LI_B23: -1156.5><-630><0><-72><2><Bygone Mineshaft
+LI_E03: -1269><-423><0><-390><1><Bygone Mineshaft
+LI_A22: -1434><-187.5><0><-70><0><Bygone Mineshaft
+LI_H02: -1851><-130.5><0><-150><0><Bygone Mineshaft
+LI_C16: -2262><67.5><0><-230><0><Bygone Mineshaft
+LI_B20: -2616><214.5><0><-70><0><Bygone Mineshaft
+LI_C17: -1644><-409.5><0><-74><0><Bygone Mineshaft
+LI_S14: -1149><-2602.5><0><-70><1><
+LI_A26: -1275><-1345.5><0><-74><1><Bygone Mineshaft
+LI_A27: -1494><-1276.5><0><-70><1><Bygone Mineshaft
+LI_C18: -1287><-1039.5><0><-230><1><Bygone Mineshaft
+LI_C19: -732><-780><0><-140><1><
+LI_D11: -1152><-2401.5><0><-150><1><Bygone Mineshaft
+LI_D13: -1257><-2020.5><0><-310><1><Bygone Mineshaft
+LI_B25: -1149><-1639.5><40><-110><1><Bygone Mineshaft
+OffScreenDen_LI: 507><441><0><-20><0><
+Connection: GATE_LI_NG,LI_S1,2,9,42,21,2,0
+Connection: GATE_LI_NG,LI_WALL1,11,5,153,104,3,1
+Connection: GATE_LI_WK,LI_S6,2,13,23,9,2,3
+Connection: GATE_LI_WK,LI_PREWK,2,11,61,10,2,0
+Connection: LI_WALL1,LI_A07,10,108,17,2,2,2
+Connection: LI_WALL1,LI_C02,9,10,59,50,2,0
+Connection: LI_WALL1,LI_BIGWALL,148,5,62,295,0,1
+Connection: LI_DEPOT,LI_PREWK,163,104,7,31,0,2
+Connection: LI_DEPOT,LI_TRAINWALL2,7,58,156,19,2,0
+Connection: LI_DEPOT,LI_LEG7,87,5,32,120,3,1
+Connection: LI_WALLCRASH,LI_BIGWALL,103,142,55,262,0,0
+Connection: LI_WALLCRASH,LI_ROCKHAVEN,12,146,55,8,2,0
+Connection: LI_WALLCRASH,LI_A14,47,87,28,4,2,0
+Connection: LI_WALLCRASH,LI_F01,11,52,148,50,3,0
+Connection: LI_WALLCRASH,LI_test,67,9,8,89,2,2
+Connection: LI_test,LI_A02,14,40,46,15,2,0
+Connection: LI_test,LI_C01,20,10,150,8,2,0
+Connection: LI_S2,LI_H02,54,14,14,17,0,3
+Connection: LI_MINESHAFT1,LI_BIGSHAFT1,167,24,2,56,0,3
+Connection: LI_MINESHAFT1,LI_A23,6,15,43,13,2,0
+Connection: LI_DUMP1,LI_DUMPTRAIN2,123,4,9,30,2,3
+Connection: LI_DUMP1,LI_A20,165,10,4,27,3,2
+Connection: LI_DUMP1,LI_DUMP2,6,6,146,7,2,0
+Connection: LI_DUMPTRAIN,LI_DUMP2,2,14,160,70,2,0
+Connection: LI_DUMPTRAIN,LI_DUMPTRAIN2,149,4,15,7,0,2
+Connection: LI_SUMMIT,LI_DUMP6,103,9,3,68,3,2
+Connection: LI_SUMMIT,LI_A09,20,6,54,23,3,3
+Connection: LI_BIGSHAFTTOP,LI_A17,31,68,19,5,1,0
+Connection: LI_BIGSHAFTTOP,LI_A16,2,51,31,12,2,0
+Connection: LI_BIGSHAFTTOP,LI_BIGSHAFT2,31,11,58,68,3,1
+Connection: LI_DUMPUNDER1,LI_DUMPUNDER2,1,31,119,3,2,0
+Connection: LI_DUMPUNDER1,LI_C09,103,23,2,17,0,2
+Connection: LI_DUMPUNDER1,LI_A16,103,3,38,26,0,2
+Connection: LI_DUMPUNDER2,LI_DUMP3,91,34,8,4,1,2
+Connection: LI_DUMPUNDER2,LI_DUMP4,13,32,23,4,1,3
+Connection: LI_DUMPUNDER2,LI_DUMP2,148,23,13,23,1,3
+Connection: LI_DUMPUNDER2,LI_DUMPUNDER3,2,15,42,13,2,0
+Connection: LI_DUMP2,LI_DUMP3,2,43,45,19,2,0
+Connection: LI_CLIFF2,LI_TRAINWALL1,28,81,59,6,2,2
+Connection: LI_CLIFF2,LI_A08,42,13,44,15,2,0
+Connection: LI_CLIFF1,LI_C01,67,55,2,17,0,2
+Connection: LI_CLIFF1,LI_B24,12,39,97,22,2,0
+Connection: LI_MINETOP1,LI_A15,1,25,49,20,2,0
+Connection: LI_MINETOP1,LI_B08,37,6,91,12,2,3
+Connection: LI_MINETOP1,LI_MINEPIT,250,2,2,48,0,2
+Connection: LI_MINETOP1,LI_A17,129,6,18,21,3,1
+Connection: LI_MINEPIT,LI_B03,101,16,3,15,0,1
+Connection: LI_MINEPIT,LI_SCAV,19,15,46,13,2,0
+Connection: LI_TRAINWALL1,LI_D01,50,102,46,12,2,2
+Connection: LI_TRAINWALL1,LI_CONTROLROOM,68,96,4,13,0,2
+Connection: LI_TRAINWALL1,LI_TRAINWALL2,99,59,29,22,0,2
+Connection: LI_TRAINWALL1,LI_D04,5,55,129,55,2,0
+Connection: LI_TRAINWALL2,LI_BIGWALL,93,70,59,14,0,0
+Connection: LI_TRAINWALL2,LI_WALL2,58,1,45,33,3,0
+Connection: LI_WALLBRIDGE,LI_D01,1,13,57,140,3,3
+Connection: LI_WALLBRIDGE,LI_BIGWALL,97,13,3,88,3,3
+Connection: LI_A02,LI_B01,3,33,40,10,1,3
+Connection: LI_S3,LI_B01,23,8,15,67,3,1
+Connection: LI_D03,LI_F05,3,28,98,84,1,0
+Connection: LI_D03,LI_S4,81,29,30,15,2,0
+Connection: LI_D03,LI_F02,195,28,1,25,1,1
+Connection: LI_D03,LI_A05,9,3,3,35,2,2
+Connection: LI_BIGSHAFT1,LI_S14,61,177,9,10,1,3
+Connection: LI_BIGSHAFT1,LI_CAVE,7,129,147,9,3,0
+Connection: LI_BIGSHAFT1,LI_C13,120,18,4,24,0,1
+Connection: LI_BIGSHAFT1,LI_B18,6,9,105,39,3,3
+Connection: LI_LEG1,LI_LEG2,22,145,22,4,1,3
+Connection: LI_LEG1,LI_LEG4,53,121,3,17,0,2
+Connection: LI_LEG1,LI_C03,16,110,38,10,2,3
+Connection: LI_LEG1,LI_LEG3,50,24,3,104,0,2
+Connection: LI_FAKEGATE,LI_LEG3,3,14,44,54,2,0
+Connection: LI_FAKEGATE,LI_S5,36,5,3,17,3,2
+Connection: LI_LEG3,LI_LEG4,45,178,39,5,1,0
+Connection: LI_LEG3,LI_C07,6,17,150,20,2,0
+Connection: LI_LEG2,LI_LEG9,53,110,53,2,0,0
+Connection: LI_LEG2,LI_LEG4,53,99,6,141,0,2
+Connection: LI_LEG2,LI_C03,1,72,42,93,2,0
+Connection: GATE_WK_LI,LI_D06,5,8,209,9,2,0
+Connection: LI_ROCKHAVEN,LI_A04,48,35,25,2,2,2
+Connection: LI_ROCKHAVEN,LI_A03,3,10,60,11,3,0
+Connection: LI_LEG4,LI_LEG6,45,145,22,1,1,3
+Connection: LI_LEG6,LI_LEG7,23,61,81,3,3,3
+Connection: LI_LEG6,LI_S8,43,56,10,9,0,2
+Connection: LI_LEG6,LI_LEG5,4,6,45,8,2,0
+Connection: LI_C03,LI_F03,43,102,106,18,0,0
+Connection: LI_C03,LI_F04,2,70,63,210,1,1
+Connection: LI_LEG9,LI_LEG8,53,34,106,7,0,0
+Connection: LI_LEG9,LI_F03,2,19,154,53,2,0
+Connection: LI_LEG9,LI_LEG5,42,6,6,22,0,2
+Connection: LI_LEG5,LI_LEG7,43,29,47,2,0,3
+Connection: LI_F03,LI_B04,1,24,43,19,2,3
+Connection: LI_C04,LI_A10,46,86,8,4,3,0
+Connection: LI_C04,LI_D05,48,13,7,11,0,2
+Connection: LI_C04,LI_C05,5,13,146,15,2,0
+Connection: LI_C05,LI_TEMPGATE,12,28,45,10,2,0
+Connection: LI_LEG8,LI_WALL2,33,66,53,12,1,0
+Connection: LI_LEG8,LI_LEG7,105,65,5,131,0,2
+Connection: LI_WALL2,LI_A12,8,21,17,4,3,2
+Connection: LI_TRAIN1,LI_D10,78,23,107,10,1,3
+Connection: LI_TRAIN1,LI_TRAIN2,246,13,15,12,0,2
+Connection: LI_TRAIN1,GATE_MF_LI,45,8,45,10,2,0
+Connection: LI_TRAIN3,LI_C11,55,67,23,3,1,2
+Connection: LI_TRAIN3,LI_B11,101,65,1,5,0,2
+Connection: LI_TRAIN3,LI_TRAIN4,160,47,7,7,0,2
+Connection: LI_TRAIN3,LI_TRAIN2.5,2,4,82,14,2,0
+Connection: LI_TRAIN3,LI_C10,124,3,6,8,0,2
+Connection: LI_B04,LI_A08,14,67,12,10,2,3
+Connection: LI_A12,LI_B07,11,21,54,10,2,0
+Connection: LI_DUMP3,LI_DUMP4,10,68,99,57,2,0
+Connection: LI_DUMP4,LI_DUMP5,2,67,192,60,2,1
+Connection: LI_B01,LI_A13,1,65,43,14,2,0
+Connection: LI_A09,LI_A10,10,3,48,34,3,0
+Connection: LI_D01,LI_A01,4,117,44,8,2,0
+Connection: LI_C01,LI_B07,113,11,10,73,3,1
+Connection: LI_C07,LI_F04,16,33,13,2,1,2
+Connection: LI_C07,LI_D06,46,7,149,34,0,0
+Connection: LI_DUMP5,LI_DUMP6,53,102,56,11,1,3
+Connection: LI_DUMP5,LI_DUMPUNDER3,196,11,1,16,0,2
+Connection: LI_DUMP5,LI_B22,81,3,45,29,0,2
+Connection: LI_F04,LI_C14,8,49,148,9,2,0
+Connection: LI_A13,LI_F01,10,31,125,2,1,3
+Connection: LI_F01,LI_B02,137,28,90,20,1,1
+Connection: LI_F01,LI_B16,9,43,96,7,3,3
+Connection: LI_F01,LI_A01,23,4,16,24,3,1
+Connection: LI_A03,LI_C02,20,35,22,10,1,2
+Connection: LI_A03,LI_C19,1,14,121,54,2,0
+Connection: LI_A03,LI_B02,29,2,1,24,3,2
+Connection: LI_B02,LI_A14,97,34,1,22,0,2
+Connection: LI_S9,LI_DUMPUNDER3,26,30,18,1,1,3
+Connection: LI_C06,LI_B09,152,32,9,32,0,2
+Connection: LI_C06,LI_A21,13,10,35,7,3,3
+Connection: LI_B08,LI_ECHO,101,29,24,85,1,3
+Connection: LI_B08,LI_B09,14,5,99,17,3,0
+Connection: LI_A15,LI_B09,5,11,92,30,3,1
+Connection: LI_C02,LI_A06,5,97,52,21,1,0
+Connection: LI_C02,LI_A04,55,10,1,34,0,2
+Connection: LI_SCAV,LI_C09,1,13,150,9,2,0
+Connection: LI_E01,LI_D04,60,158,129,29,0,0
+Connection: LI_E01,LI_C08,1,33,50,49,2,2
+Connection: LI_C08,LI_TRAIN5,4,5,201,33,2,0
+Connection: LI_C08,LI_C13,109,10,108,34,0,0
+Connection: LI_A10,LI_A11,23,14,18,28,3,1
+Connection: LI_S7,LI_A11,7,16,46,23,2,0
+Connection: LI_A11,LI_D05,40,1,30,59,3,0
+Connection: LI_TRAIN2,LI_B15,231,69,91,2,2,2
+Connection: LI_TRAIN2,LI_TRAIN2.5,252,45,4,7,0,2
+Connection: LI_TRAIN2,LI_A18,61,33,24,2,1,3
+Connection: LI_B10,LI_B13,6,34,96,17,3,0
+Connection: LI_B10,LI_D08,88,22,3,16,0,2
+Connection: LI_B10,LI_D09,46,8,3,66,3,1
+Connection: LI_C10,LI_TRAIN4,137,27,126,5,2,0
+Connection: LI_B11,LI_B12,44,68,75,10,1,2
+Connection: LI_B11,LI_TRAIN4,42,40,18,103,0,2
+Connection: LI_B11,LI_A23,46,15,1,19,0,2
+Connection: LI_TRAIN4,LI_B12,16,109,96,5,2,3
+Connection: LI_TRAIN4,LI_TRAIN5,146,97,9,12,0,2
+Connection: LI_TRAIN4,LI_B18,159,30,2,23,0,2
+Connection: LI_B12,LI_C11,23,21,34,95,2,3
+Connection: LI_C11,LI_D08,19,44,201,18,2,0
+Connection: LI_A06,LI_D02,52,5,201,31,0,0
+Connection: LI_D02,LI_A05,2,21,13,14,2,3
+Connection: LI_D02,LI_B21,87,4,40,73,3,1
+Connection: LI_A05,LI_F05,1,24,97,16,2,0
+Connection: LI_TRAIN2.5,LI_B14,59,38,25,1,2,3
+Connection: LI_TRAIN2.5,LI_S10,63,20,29,17,2,0
+Connection: LI_A18,LI_B15,50,16,17,8,0,2
+Connection: LI_B15,LI_D09,23,32,40,12,1,3
+Connection: LI_D08,LI_B14,130,1,22,68,3,1
+Connection: LI_B16,LI_G01,2,7,30,182,3,0
+Connection: LI_E02,LI_B13,41,156,41,6,0,2
+Connection: LI_E02,LI_S11,9,87,12,15,0,2
+Connection: LI_E02,LI_A24,2,76,46,5,2,0
+Connection: LI_E02,LI_D10,10,12,115,12,0,1
+Connection: LI_C14,LI_C13,2,12,154,22,2,0
+Connection: LI_D10,LI_A24,108,87,2,5,0,2
+Connection: LI_B05,LI_B06,86,30,2,51,0,2
+Connection: LI_B05,LI_D05,1,25,84,55,2,0
+Connection: LI_B05,LI_B19,60,5,98,28,0,1
+Connection: LI_D05,LI_B19,85,11,2,11,0,2
+Connection: LI_B06,LI_A21,42,2,18,33,3,1
+Connection: LI_G01,LI_C19,54,237,6,8,1,3
+Connection: LI_G01,LI_A26,16,77,36,19,2,0
+Connection: LI_G01,LI_B24,50,6,4,5,3,3
+Connection: LI_G01,LI_B25,46,6,104,24,3,1
+Connection: LI_F02,LI_B03,75,106,80,7,3,3
+Connection: LI_F02,LI_A07,96,1,28,26,3,2
+Connection: LI_B03,LI_A20,52,24,11,1,0,3
+Connection: LI_B03,LI_EDGE,89,13,4,13,1,1
+Connection: LI_B19,LI_H01,66,1,31,137,3,1
+Connection: LI_G02,LI_H01,8,25,99,66,1,0
+Connection: LI_G02,LI_C15,356,10,2,44,0,1
+Connection: LI_B21,LI_B23,1,7,99,7,2,0
+Connection: LI_BIGSHAFT2,LI_E03,10,6,9,187,2,2
+Connection: LI_H01,LI_B22,105,129,12,6,0,1
+Connection: LI_H01,LI_B20,102,13,3,7,0,2
+Connection: LI_F05,LI_C15,2,101,148,3,3,0
+Connection: LI_B23,LI_E03,19,3,49,16,2,0
+Connection: LI_E03,LI_A22,9,169,40,11,2,3
+Connection: LI_E03,LI_C17,5,100,150,16,3,0
+Connection: LI_E03,LI_C18,11,16,14,99,2,2
+Connection: LI_A22,LI_H02,5,16,198,17,3,3
+Connection: LI_H02,LI_C16,2,53,42,9,1,3
+Connection: LI_H02,LI_C17,119,6,24,35,3,1
+Connection: LI_C16,LI_B20,6,99,150,10,1,1
+Connection: LI_S14,LI_D11,9,24,57,10,1,3
+Connection: LI_A26,LI_A27,2,27,45,10,2,3
+Connection: LI_A27,LI_C18,32,33,6,8,0,2
+Connection: LI_D11,LI_D13,7,62,9,6,2,3
+Connection: LI_D13,LI_B25,8,138,2,6,1,3

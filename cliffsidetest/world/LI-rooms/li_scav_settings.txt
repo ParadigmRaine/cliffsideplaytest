@@ -1,0 +1,20 @@
+Template: NONE
+DangerType: FloodAndRain
+CeilingDrips: 0
+RumbleIntensity: 0.1029438
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.5026607
+Grime: 0.1597373
+BkgDroneVolume: 0.2072011
+Palette: 3003
+EffectColorB: 5
+Effects: RockFlea-0.5026607-20-20, LightBurn-0.2010641-219.9594-82.64791, 
+PlacedObjects: ScavengerTreasury><368.6055><203.6047><-138.7344~366.7969, InsectGroup><237.507><325.9664><123.0823~131.3042~0~0~StandardFly~0.206137, CustomDecal><77.27603><161.9798><7.114563~298.9709~820.4697~319.6031~821.8928~-8.537491~811.7738~-153.675~0.3247959~1~0~lc_scavmarks4~0.5~0.1159986~0.5~0.1159986~0.5~0.1159986~0.5~0.1159986, 
+AmbientSounds: SPOT><AM_ENV-LightWind.ogg><765.0514><522.0095><0.5><1><925.6066><271.5126><-201.8366><21.56131><0><0.6181276, OMNI><AM_ENV-CityTone.ogg><668.9156><565.8781><0.337602><0.8051216, OMNI><AM_SUB-CaveTone.ogg><734.2874><252.534><0.5><1, OMNI><AM_SUB-BlankState.ogg><727.824><147.0792><0.3530678><1, 
+FadePalette: 8, 0.4562612
+WetTerrain: OFF
+MorePalette0: 41, 0.03093288

@@ -1,0 +1,4 @@
+Template: LI_SettingsTemplate_mines
+BkgDroneVolume: 0.2072014
+PlacedObjects: LightSource><165.6765><381.9705><0.2266757~White~144.426~133.4385~50~86.60254~0~0~None~0~0, LightSource><827.1113><254.9967><0.1880095~White~-93.20105~185.375~-315.6896~-43.59431~0~0~None~0~0, Stowaway><420.459><487.6375><1.422882~-98.49695, 
+AmbientSounds: SPOT><AM_ENV-LightWind.ogg><713.5659><518.017><0.5><0.8468828><32.94086><464.5941><222.1926><-48.87308><0><0.4973397, 

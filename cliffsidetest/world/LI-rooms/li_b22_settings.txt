@@ -1,0 +1,14 @@
+Template: LI_SettingsTemplate_summit
+WaveSpeed: 0.5003184
+WaveLength: 0.9998408
+WaveAmplitude: 4.566278E-05
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+BkgDroneVolume: 0
+Palette: 3008
+EffectColorB: 9
+Effects: LightBurn-0.4871944-301.1052-130.3552, Fog-0-27.15417-88.33959, 
+PlacedObjects: LightSource><627.8546><129.4218><0.1029458~White~-140.8688~185.375~50~86.60254~0~0~None~0~0, LightSource><1231.804><738.3828><0.03334444~Environment~1102.76~-678.3354~-53.16147~-309.6797~1~1~None~0~0, LightBeam><1621.102><332.5992><-491.6176~404.9781~-174.149~408.5355~507.428~305.2156~0~0~0.369067~0.4098623~0~1~None~0~0, FreeformDecalOrSprite><-191.1802><-30.97437><100~50~0;0^2386.311;-3.557292^2387.733;766.3199^0;772.723~Futile_White~1~Fog~Foreground~129~False~FFFFFF, 
+AmbientSounds: SPOT><am_env-natwind.ogg><741.5908><474.8725><0.3685349><0.735522><1264.087><737.4163><310.4134><-137.8054><0><0.9351906, SPOT><am_env-winterhum.ogg><728.4681><384.6642><0.5><1><1210.411><732.583><259.1884><-295.0376><0><1, OMNI><am_env-subterr.ogg><686.9564><181.9122><0.4226671><0.6380841, OMNI><am_win-subwnd.ogg><437.4896><239.2173><0.5><0.95824, SPOT><msc-metalvariety.ogg><745.077><279.9423><0.09013765><0.7912024><1408.442><737.4257><260.6113><-250.2157><0><0.3397303, OMNI><msc-heavycreaking.ogg><815.838><82.07092><0.1210705><0.3179282, OMNI><so_wat-lildrips.ogg><459.11><470.4352><0.5><1, OMNI><so_wat-moredrips.ogg><284.8675><409.5706><0.5><1, SPOT><so_sfx-doomsday.ogg><576.7446><542.1255><0.3221363><0.6241637><1791.49><623.9589><-217.4886><-120.7303><0><0.3629303, 
+FadePalette: 41, 0.6674705, 0.4021285
+MorePalette0: 3011, 0.9690678, 0.752537

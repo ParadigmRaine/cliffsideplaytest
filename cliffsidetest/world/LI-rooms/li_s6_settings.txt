@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 0.01546611
+Grime: 0.159737
+BkgDroneVolume: 0
+Palette: 3001
+Effects: Lightning-0.7037252-20-20, 
+PlacedObjects: PWLightrod><921.7949><-55.50208><-316.35~229.0483~0.1082405~0~315.0803~0.2525363~0.4~0.2551973~1~0.4~0.2551973~1~0.4~0.2551973~1~0.4~0.2551973~1, LightFixture><635.6517><370.236><RedLight~17.32051~-10~11, 
+AmbientSounds: OMNI><am_rain-quietthunder.ogg><781.1442><565.7367><0.4226671><1, OMNI><am_rain-rollingthunder.ogg><798.558><446.0164><0.4304><1, SPOT><so_ind-turbine.ogg><502.0737><204.458><0.5><1><646.9766><371.5811><-75.19708><-54.56473><0><0.2469323, 

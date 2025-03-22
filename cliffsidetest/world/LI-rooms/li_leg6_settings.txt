@@ -1,0 +1,16 @@
+Template: NONE
+DangerType: Thunder
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04764494
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.2087973
+Grime: 0.2525366
+Palette: 3003
+EffectColorA: 3
+EffectColorB: 9
+Effects: Lightning-0.6031929-20-20, ReplaceEffectColorA-0-30-30-Color-0.6495925-0.5258605-1, ElectricDeath-0.7501248-360.8677-108.3, 
+PlacedObjects: LightSource><371.6313><105.0254><0.203476~White~-259.6823~127.7469~50~86.60254~0~0~None~0~0, LightSource><264.5084><384.9144><0.3736075~White~-97.46982~109.9604~50~86.60254~0~0~None~0~0, LightSource><360.2589><131.4625><0.3736075~White~-97.46982~109.9604~50~86.60254~0~0~None~0~0, LightSource><561.8978><120.9646><0.2963595~White~-62.60846~91.46251~50~86.60254~0~0~None~0~0, LightSource><145.1175><554.3833><0.2344931~White~-46.2449~75.099~47.15417~-200.8266~0~0~None~0~0, LightSource><292.9631><1024.505><0.3040592~White~-118.8136~119.9209~47.15417~-200.8266~0~0~None~0~0, LightFixture><244.2542><253.3906><RedLight~17.32051~-10~98, LightFixture><478.4748><1228.076><RedLight~17.32051~-10~26, LightFixture><999.2359><893.6837><RedLight~17.32051~-10~87, LightFixture><1001.165><816.1295><RedLight~17.32051~-10~60, LightSource><689.1852><306.5182><0.659737~Environment~-3.557251~170.4343~-514.1864~-20.8277~0~0~None~0~0, WallSteamer><690.46><306.7707><0~100, WallSteamer><593.0036><371.4728><-44.11035~67.27289, WallSteamer><686.3822><220.4921><-96.7583~-28.77397, SteamPipe><230.7232><389.5185><41.97604~58.02393, SteamPipe><222.1997><436.7691><14.94058~48.77496, WallSteamer><471.6984><182.9649><0~100, 
+AmbientSounds: OMNI><am_env-wallhum.ogg><405.6406><367.286><0.3221349><0.8329613, OMNI><am_ind-12thfloor.ogg><516.2654><456.919><0.4072007><0.6102445, SPOT><so_ind-boiler.ogg><714.5356><372.0553><0.3298678><0.9304004><692.9574><295.866><-130.6907><-102.2324><0><0.2391981, OMNI><am_rain-mehthunder.ogg><715.8884><165.3041><0.3066691><1, OMNI><am_rain-quietthunder.ogg><747.0701><567.3455><0.3066691><1, OMNI><am_rain-rollingthunder.ogg><511.0276><217.2905><0.3066685><1, OMNI><am_rain-rumbles.ogg><762.5644><539.0723><0.2061363><1, 
+FadePalette: 3001, 0.8119903, 0.8042573

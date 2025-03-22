@@ -1,0 +1,11 @@
+{
+	"id": "nograndideas",
+	"name": "Cliffside Beta Test",
+  	"version": "playtest",
+	"authors": "Parageist, NV (__envi), LudoCrypt, Wolfycatt, Sidera",
+	"description": "this really cliffs MY side",
+      "requirements": ["moreslugcats", "crs", "regionkit", "pom", "sequoia.luminouscode", "myr.moss_fields", "com.rainworldgame.shroudedassembly.plugin"],
+    "requirements_names": ["More Slugcats", "Custom Regions Support","RegionKit", "POM", "Luminous Code", "Moss Fields", "Shrouded Assembly Code"],
+    "tags": ["regions"],
+	"checksum_override_version": false
+}

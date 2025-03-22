@@ -1,0 +1,20 @@
+Template: NONE
+DangerType: Flood
+RainIntensity: 0.04881121
+RumbleIntensity: 0.04107799
+WaveSpeed: 0.5000077
+WaveLength: 0.9999962
+WaveAmplitude: 0.03640979
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.7346583
+Grime: 0.1056044
+BkgDroneVolume: 0
+Palette: 3003
+EffectColorA: 0
+EffectColorB: 10
+Effects: Darkness-0.355729-20-20, Fog-0.2010642-303.9114-39.24896, RockFlea-0.5103942-306.0458-143.8333, Flies-0.1082653-52.76666-79.09063, ReplaceEffectColorB-0-646.8344-528.0208-Color-0.4717275-0.6495932-0.7216027, 
+PlacedObjects: Corruption><814.3651><445.6093><-73.99164~77.94479, Corruption><866.8737><403.8767><0~100, Corruption><847.1175><645.6332><130.197~107.1146, Corruption><1042.984><619.0363><-157.9437~132.7271, CorruptionTube><837.8677><294.8856><-88.22089~188.9323, CorruptionTube><968.4017><484.1092><-83.95203~218.1021, InsectGroup><918.5591><544.3364><-373.5157~144.8219~-175.0187~-135.8885~StandardFly~0.5, CorruptionTube><929.8416><545.826><76.1261~72.9646, LightSource><902.0022><617.2659><0.04107765~Environment~-593.3563~-405.1355~-832.9198~-279.7986~1~1~None~0~0, 
+AmbientSounds: OMNI><AM_SUB-BlankState.ogg><744.5349><262.9139><0.5><1, OMNI><AM_SUB-CaveTone.ogg><763.772><88.40155><0.5><1, OMNI><MSC-HeavyCreaking.ogg><700.9272><324.7937><0.206137><0.3040078, 
+FadePalette: 41, 0.3325293
+MorePalette0: 8, 0.6031932

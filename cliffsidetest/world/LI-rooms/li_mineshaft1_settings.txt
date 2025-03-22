@@ -1,0 +1,13 @@
+Template: LI_SettingsTemplate_mines
+DangerType: Flood
+WaveSpeed: 0.4945065
+WaveLength: 0.9972533
+WaveAmplitude: 0.04309241
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Grime: 1
+BkgDroneVolume: 0.2087976
+EffectColorB: 9
+PlacedObjects: LightSource><2427.745><485.7015><1~Environment~-139.4459~155.4938~50~86.60254~0~0~None~0~0, LightSource><3148.338><482.5437><1~Environment~-139.4459~155.4938~50~86.60254~0~0~None~0~0, LightSource><979.9853><481.8322><1~Environment~-139.4459~155.4938~50~86.60254~0~0~None~0~0, 
+AmbientSounds: OMNI><AM_SUB-CaveTone.ogg><732.9788><249.3942><0.5><0.7076837, OMNI><AM_SUB-BlankState.ogg><693.2882><268.8305><0.7061356><0.3040066, OMNI><AM_WIN-SubWnd.ogg><705.1915><379.5251><0.2525356><1, OMNI><MSC-LowGroans.ogg><822.733><525.7545><0.206137><0.4014469, 
+FadePalette: 10, 0, 0, 0

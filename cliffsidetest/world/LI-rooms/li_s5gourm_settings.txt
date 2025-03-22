@@ -1,0 +1,17 @@
+Template: NONE
+DangerType: None
+WaveSpeed: 0.6262684
+WaveLength: 0.3762681
+WaveAmplitude: 0.05413354
+SecondWaveLength: 0.04293459
+SecondWaveAmplitude: 0.0386661
+Clouds: 1
+Grime: 0.3608017
+Palette: 3001
+EffectColorA: 9
+EffectColorB: 13
+Effects: Lightning-0.6573268-651.0635-445.4521, LightRain-1-233.4771-69.1302, GreenSparks-0.1005315-503.0802-560.7083, SilenceWater-0.502661-581.3406-573.5145, RockFlea-0.3015968-823.9478-362.9229, WaterGlowworm-0.1005315-745.6876-487.4281, WaterLights-1-20-20, VoidMelt-0.2087986-535.175-343.7927, WaterDepth-0.1082654-308.9312-141.0271, LavaSurface-1-355.176-14.3875, LethalWater-1-355.1761-424.1875, 
+PlacedObjects: LightFixture><58.00722><351.897><RedLight~17.32051~-10~100, LightFixture><935.5522><353.9568><RedLight~17.32051~-10~81, LightFixture><726.4462><407.1234><RedLight~17.32051~-10~100, SteamPipe><1148.492><334.2974><0~100, SteamPipe><1161.577><336.7308><0~100, SteamPipe><1080.994><511.0743><0~100, SteamPipe><1099.22><500.7735><28.4585~70.11871, SteamPipe><1091.058><510.1955><-25.61252~38.10312, SteamPipe><520.6287><638.9766><42.6875~62.29272, SteamPipe><420.7171><505.7733><-17.78644~73.67603, SteamPipe><1111.589><209.7774><-17.07495~-40.15729, SteamPipe><1126.275><208.0782><32.72705~-94.93956, SteamPipe><934.5206><251.874><-10.67188~-86.4021, LightFixture><390.9222><495.0976><HolyFire~17.32051~-10~34, ColoredLightBeam><-165.4452><373.8084><-4.268744~-392.5667~1370.427~-392.5667~1374.696~-31.3042~140.6~65.56451~0.02972246~0~0~0~Fade~0.2002282~0~EffectColor2~EffectColor2~EffectColor2~EffectColor2~EffectColor2~EffectColor2~EffectColor2~EffectColor2, ColoredLightBeam><530.7522><353.0587><-4.268744~-392.5667~1370.427~-392.5667~1374.696~-31.3042~140.6~65.56451~0.06065369~0~0~0~Fade~0.2002282~0~EffectColor2~EffectColor2~EffectColor2~EffectColor2~EffectColor2~EffectColor2~EffectColor2~EffectColor2~EffectColor2, 
+AmbientSounds: OMNI><am_rain-mehthunder.ogg><711.656><158.9482><0.5><1, OMNI><am_rain-quietthunder.ogg><782.2789><565.596><0.5><1, OMNI><am_rain-rollingthunder.ogg><840.0436><366.9774><0.5><1, OMNI><am_rain-rumbles.ogg><566.6105><596.1563><0.5><1, OMNI><so_wat-openflow.ogg><748.4442><305.9678><0.5><1.208797, SPOT><so_wat-splashes.ogg><544.0383><200.4674><0.5><0.4710477><1019.928><291.6287><-150.6117><-193.2991><0><0.5639941, OMNI><msc-metalvariety.ogg><499.7687><504.6398><0.1906718><0.304009, OMNI><msc-structurestrain.ogg><346.1438><352.82><0.2138695><0.2065686, OMNI><msc-unrelentingbreakage.ogg><705.5175><447.0998><0.2061356><0.2065686, 
+FadePalette: 31, 0.9047893
+MorePalette0: 75, 0.05413221

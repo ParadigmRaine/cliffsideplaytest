@@ -1,0 +1,13 @@
+Template: LI_SettingsTemplate_inside
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 3008
+Effects: LightBurn-0.2010644-681.024-439.1281, 
+PlacedObjects: LightSource><225.886><616.369><0.03334444~Environment~231.9355~-578.0198~12.29266~-42.17139~1~1~None~0~0, CustomDecal><-46.00171><-11.63297><0~768.5334~1367.581~764.2646~1358.332~0~184.2677~192.8052~0.3247959~1~0~rustb2~0.5~1~0.5~1~0.5~1~0.5~1, CustomDecal><1006.791><236.3085><-4.980225~148.1417~297.5479~165.9282~274.7811~16.36353~3.557373~-158.6552~0.3247966~0.3968075~0~oda~0.5~0.1855973~0.5~0.1855973~0.4072007~0.958922~0.159737~0.1855973, 
+FadePalette: 35, 0.3093297
+WetTerrain: OFF
+MorePalette0: 8, 0.4021288

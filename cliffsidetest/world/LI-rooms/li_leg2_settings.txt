@@ -1,0 +1,10 @@
+Template: NONE
+Clouds: 0.8066688
+Grime: 0.2061373
+Palette: 3003
+EffectColorA: 4
+EffectColorB: 10
+Effects: LightRain-0.7578576-20-20, BkgOnlyLightning-0.3015966-197.9041-83.35938, ReplaceEffectColorA-0-800.5093-340.9073-Color-0.5954594-0.4949271-1, GreenSparks-0.02319999-321.6979-35.69166, 
+PlacedObjects: Corruption><657.5739><378.886><73.9917~43.08334, 
+AmbientSounds: OMNI><am_env-natwind.ogg><713.0567><307.7211><0.2989356><1, OMNI><am_env-wallhum.ogg><728.0073><204.1131><0.1442712><0.7912024, OMNI><am_rain-mehthunder.ogg><746.1329><161.5389><0.3608014><1, OMNI><am_rain-quietthunder.ogg><703.9905><566.4766><0.3762685><1, OMNI><am_rain-rollingthunder.ogg><464.7067><347.3793><0.3144014><1, OMNI><am_rain-rumbles.ogg><726.7234><393.6518><0.1829376><1, OMNI><msc-unrelentingbreakage.ogg><399.3365><513.49><0.1288051><0.2622502, OMNI><msc-metalvariety.ogg><645.0462><470.7944><0.1056041><0.9025632, OMNI><msc-structurestrain.ogg><496.8142><602.3846><0.1520047><0.1369702, 
+FadePalette: 3002, 0.703725, 0.7501244, 0.788791

@@ -1,0 +1,9 @@
+Clouds: 0.819724
+Grime: 0.2680027
+Palette: 3003
+EffectColorA: 5
+EffectColorB: 13
+Effects: LightRain-0.8042571-20-20, ReplaceEffectColorA-0-772.7625-372.9229-Color-0.5877268-0.4639946-1, GreenSparks-0.04639866-594.8979-428.4167, BkgOnlyLightning-0.4021288-92.60834-79.80209, 
+PlacedObjects: Corruption><750.9984><2710.508><54.78235~40.94897, CorruptionTube><739.9928><2742.494><263.2396~193.9125, CorruptionTube><768.2271><2706.836><120.2365~249.4063, ClimbablePole><823.0397><498.0621><34.15002~171.1458~17.32051~-10~Black, ClimbablePole><831.7697><1686.076><12.80627~210.276~17.32051~-10~Black, ClimbablePole><684.4249><1614.149><12.80621~273.5959~17.32051~-10~Black, ClimbablePole><920.5322><2063.695><-46.24487~284.9792~17.32051~-10~Black, ClimbablePole><854.8295><2145.771><-83.2406~179.6833~17.32051~-10~Black, ReliableSpear><743.2517><284.4353><, ReliableSpear><703.2963><287.8157><, ReliableSpear><746.5452><331.8263><, ClimbableWire><228.2668><1881.356><396.2823~60.15826~17.32051~-10~Black~11, 
+AmbientSounds: OMNI><am_env-natwind.ogg><754.1472><310.9><0.3066691><1, OMNI><am_rain-mehthunder.ogg><746.6696><158.7463><0.3066691><1, OMNI><am_rain-quietthunder.ogg><765.6267><569.3281><0.4072007><1, OMNI><am_rain-rollingthunder.ogg><539.6879><461.8732><0.4072013><1, OMNI><am_rain-rumbles.ogg><758.0606><419.7499><0.3066691><1, OMNI><msc-metalvariety.ogg><739.4171><535.6777><0.1056048><0.8468804, OMNI><msc-unrelentingbreakage.ogg><563.3068><581.7458><0.2061363><0.2761682, 
+FadePalette: 3002, 0.8066688, 0.827457, 0.8429235, 0.8661232

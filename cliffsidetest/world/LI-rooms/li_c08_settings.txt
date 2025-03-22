@@ -1,0 +1,10 @@
+Template: NONE
+Clouds: 0
+Grime: 0.206137
+BkgDroneVolume: 0.1530682
+Palette: 3009
+EffectColorB: 9
+Effects: Fog-0.5026608-20-20, RockFlea-0.3325295-30-30, 
+PlacedObjects: LightSource><1526.733><392.2932><0.09521087~White~-142.2917~114.2292~21.54169~-92.68497~0~0~None~0~0, LightSource><312.4481><219.8641><0.1570766~White~-23.47809~122.7667~50~86.60254~0~0~None~0~0, LightSource><1109.5><652.0052><0.1261451~White~-23.47809~122.7667~-303.5948~-287.6245~0~0~None~0~0, LightFixture><1592.558><1355.115><RedLight~17.32051~-10~37, LightFixture><1610.202><648.8778><RedLight~17.32051~-10~49, LightFixture><1604.207><234.9885><RedLight~17.32051~-10~78, LightFixture><228.327><353.976><RedLight~17.32051~-10~50, InsectGroup><-0.1119156><319.5082><1244.341~112.0948~0~0~FireFly~0.1210712, Mushroom><1141.913><694.0723><0~0~2~3, Mushroom><1126.071><684.2902><0~0~2~3, Mushroom><1090.967><662.9937><0~0~2~3, ClimbableRope><1435.837><440.6343><1.422852^-353.5947, 
+AmbientSounds: OMNI><am_win-subwnd.ogg><722.2674><259.0994><0.5><1, OMNI><msc-metalvariety.ogg><723.6996><490.8108><0.1056041><0.3318461, OMNI><msc-heavycreaking.ogg><405.6761><279.4543><0.1520051><0.3040083, OMNI><so_env-strongwnd.ogg><750.1072><339.3282><0.337602><0.5545653, 
+FadePalette: 3011, 0.3093298, 0.5026607, 0.3093297

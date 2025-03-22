@@ -1,0 +1,5 @@
+EffectColorA: 5
+Effects: ReplaceEffectColorB-0-328.7729-69.09063-Color-0.03866677-0.3479966-1, AboveCloudsView-1-20-20, 
+PlacedObjects: Corruption><796.984><361.8372><53.35931~-60.07806, Corruption><617.8517><496.4236><15.65216~50.90942, 
+BackgroundOffset: -4500,-750
+BackgroundType: atc_si_msc

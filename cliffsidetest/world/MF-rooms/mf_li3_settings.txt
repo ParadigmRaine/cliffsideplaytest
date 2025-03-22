@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.8583902
+Grime: 0.1210712
+BkgDroneVolume: 0
+Palette: 12
+EffectColorA: 19
+Effects: LightBurn-0.2010646-20-20, 
+PlacedObjects: FanLight><534.4847><304.4445><105.5414~75.375~46~1~0~0~14~FanLightMask1~-80.39484~60.15833~0~0, NGI drone><680.6508><223.8259><99.68341^168.6948, 
+AmbientSounds: OMNI><am_ind-utility04.ogg><727.1399><549.5474><0.5><1, SPOT><SO_IND-Generator.ogg><743.983><377.121><0.5><1><291.2612><327.2553><94.84152><-48.87305><0><0.5485283, SPOT><SO_IND-MechHum03.ogg><552.6277><426.1437><0.5><1><668.361><306.5552><-35.35534><-35.35534><0><0.2237323, 
+FadePalette: 13, 0.3015966
+MorePalette0: 8, 0.3015959
